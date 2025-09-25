@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bybel Watch</string>
+    <string name="biblewatch_header">Dit is nou %1$s %2$s</string>
+    <string name="title_bible_watch">BYBEL WATCH</string>
+    <string name="permission_desc">Deur toestemmings vertoon die app die horlosie op die tuisskerm en werk glad.</string>
+
+    <!-- Hoofskerm -->
+    <string name="overlay_permission_title">Oorleg Toestemming</string>
+    <string name="usage_access_permission_title">Gebruik Toegang Toestemming</string>
+    <string name="request_overlay_button_label">👉 Versoek Oorleg Toestemming</string>
+    <string name="overlay_granted_label">Oorleg Toestemming Toegestaan</string>
+    <string name="request_usage_button_label">👉 Versoek Gebruik Toegang</string>
+    <string name="usage_granted_label">Gebruik Toegang Toegestaan</string>
+    <string name="start_overlay_button">Begin Oorleg</string>
+    <string name="stop_overlay_button">Stop Oorleg</string>
+    <string name="open_anim_settings_button">Opsioneel: Skakel Animering Aan/Af</string>
+    <string name="status_granted">✅ Toegestaan</string>
+    <string name="status_needed">❌ Benodig</string>
+
+    <!-- Animering Instellings Skerm -->
+    <string name="anim_settings_title">Skakel Animering Aan/Af</string>
+    <string name="anim_settings_subtitle">Skakel net aan wat jy wil hê \n— Bespaar Battery</string>
+    <string name="switch_rays_fairy_bg">Strale, Fee, Agtergrond</string>
+    <string name="switch_bible">Bybel</string>
+    <string name="switch_clock">Horlosie</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Pas Seleksie Toe</string>
+    
+</resources>

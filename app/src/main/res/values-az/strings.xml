@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Müqəddəs Kitab Saat</string>
+    <string name="biblewatch_header">İndi %1$s %2$s-dir</string>
+    <string name="title_bible_watch">MÜQƏDDƏS KITAB SAAT</string>
+    <string name="permission_desc">İcazələr vasitəsilə tətbiq ana ekranda saatı göstərir və hamar işləyir.</string>
+
+    <!-- Əsas Ekran -->
+    <string name="overlay_permission_title">Örtük İcazəsi</string>
+    <string name="usage_access_permission_title">İstifadə Giriş İcazəsi</string>
+    <string name="request_overlay_button_label">👉 Örtük İcazəsi İstə</string>
+    <string name="overlay_granted_label">Örtük İcazəsi Verildi</string>
+    <string name="request_usage_button_label">👉 İstifadə Girişi İstə</string>
+    <string name="usage_granted_label">İstifadə Girişi Verildi</string>
+    <string name="start_overlay_button">Örtük Başlat</string>
+    <string name="stop_overlay_button">Örtük Dayandır</string>
+    <string name="open_anim_settings_button">İxtiyari: Animasiyanı Aç/Qapat</string>
+    <string name="status_granted">✅ Verildi</string>
+    <string name="status_needed">❌ Lazım</string>
+
+    <!-- Animasiya Parametrləri Ekranı -->
+    <string name="anim_settings_title">Animasiyanı Aç/Qapat</string>
+    <string name="anim_settings_subtitle">Yalnız istədiyinizi açın \n— Batareyadan qənaət edin</string>
+    <string name="switch_rays_fairy_bg">Şüalar, Pəri, Fon</string>
+    <string name="switch_bible">Müqəddəs Kitab</string>
+    <string name="switch_clock">Saat</string>
+    <string name="switch_images">İsa</string>
+    <string name="apply_selection_button">Seçimi Tətbiq Et</string>
+    
+</resources>
