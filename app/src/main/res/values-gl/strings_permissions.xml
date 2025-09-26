@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Mostrar sobre outras aplicacións</string>
+    <string name="perm_overlay_body">Requirido para mostrar a esfera do reloxo na túa pantalla de inicio. Esta aplicación non recolle nin rexistra ningún contido de pantalla.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Acceso ao uso</string>
+    <string name="perm_usage_body">Úsase para detectar cando estás na pantalla de inicio para alternar a superposición do reloxo. Non se accede a datos persoais.</string>
+</resources>

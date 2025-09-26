@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Паказ над іншымі праграмамі</string>
+    <string name="perm_overlay_body">Неабходна для паказу цыферблата на вашым галоўным экране. Гэта праграма не збірае і не запісвае ніякі змест экрана.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Доступ да выкарыстання</string>
+    <string name="perm_usage_body">Выкарыстоўваецца для выяўлення, калі вы знаходзіцеся на галоўным экране, каб пераключыць накладку гадзінніка. Ніякія асабістыя дадзеныя не даступныя.</string>
+</resources>

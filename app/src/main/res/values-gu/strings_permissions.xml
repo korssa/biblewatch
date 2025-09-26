@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">અન્ય એપ્સ પર દર્શાવો</string>
+    <string name="perm_overlay_body">તમારી હોમ સ્ક્રીન પર વૉચ ફેસ બતાવવા માટે જરૂરી છે. આ એપ કોઈપણ સ્ક્રીન સામગ્રી એકત્ર કરતી નથી અથવા રેકોર્ડ કરતી નથી.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">વપરાશ ઍક્સેસ</string>
+    <string name="perm_usage_body">હોમ સ્ક્રીન પર હોવાનું શોધવા માટે વપરાય છે જેથી વૉચ ઓવરલે ટૉગલ કરી શકાય. કોઈ વ્યક્તિગત ડેટા ઍક્સેસ કરવામાં આવતો નથી.</string>
+</resources>

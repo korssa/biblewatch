@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Afișează peste alte aplicații</string>
+    <string name="perm_overlay_body">Necesar pentru a afișa cadranul ceasului pe ecranul tău principal. Această aplicație nu colectează sau înregistrează niciun conținut de ecran.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Acces la utilizare</string>
+    <string name="perm_usage_body">Folosit pentru a detecta când ești pe ecranul principal pentru a comuta suprapunerea ceasului. Nu se accesează date personale.</string>
+</resources>

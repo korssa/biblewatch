@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Kuva teiste rakenduste kohal</string>
+    <string name="perm_overlay_body">Vajalik kellanäo kuvamiseks teie avakuval. See rakendus ei kogu ega salvesta ühtegi ekraani sisu.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Kasutamise juurdepääs</string>
+    <string name="perm_usage_body">Kasutatakse avakuval viibimise tuvastamiseks kella ülekatte lülitamiseks. Isiklikke andmeid ei pääseta ligi.</string>
+</resources>

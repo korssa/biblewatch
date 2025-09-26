@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Rādīt virs citām lietotnēm</string>
+    <string name="perm_overlay_body">Nepieciešams, lai parādītu pulksteņa ciparnīcu jūsu sākuma ekrānā. Šī lietotne neievāc un neieraksta nekādu ekrāna saturu.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Piekļuve lietošanai</string>
+    <string name="perm_usage_body">Izmanto, lai noteiktu, kad atrodaties sākuma ekrānā, lai pārslēgtu pulksteņa pārklājumu. Netiek piekļūts personiskiem datiem.</string>
+</resources>

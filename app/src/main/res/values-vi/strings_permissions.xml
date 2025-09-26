@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Hiển thị trên các ứng dụng khác</string>
+    <string name="perm_overlay_body">Cần thiết để hiển thị mặt đồng hồ trên màn hình chính của bạn. Ứng dụng này không thu thập hoặc ghi lại bất kỳ nội dung màn hình nào.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Quyền truy cập sử dụng</string>
+    <string name="perm_usage_body">Được sử dụng để phát hiện khi bạn đang ở trên màn hình chính để chuyển đổi lớp phủ đồng hồ. Không truy cập dữ liệu cá nhân.</string>
+</resources>

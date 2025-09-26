@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">ఇతర అప్లికేషన్‌లపై ప్రదర్శించు</string>
+    <string name="perm_overlay_body">మీ హోమ్ స్క్రీన్‌లో వాచ్ ఫేస్ చూపించడానికి అవసరం. ఈ అప్లికేషన్ ఏ స్క్రీన్ కంటెంట్‌ను సేకరించదు లేదా రికార్డ్ చేయదు.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">వినియోగ ప్రాప్తి</string>
+    <string name="perm_usage_body">హోమ్ స్క్రీన్‌లో ఉన్నప్పుడు గుర్తించడానికి ఉపయోగించబడుతుంది వాచ్ ఓవర్‌లే మార్చడానికి. ఏ వ్యక్తిగత డేటా ప్రాప్తి చేయబడదు.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Über anderen Apps anzeigen</string>
+    <string name="perm_overlay_body">Erforderlich, um das Zifferblatt auf Ihrem Startbildschirm anzuzeigen. Diese App sammelt oder zeichnet keinen Bildschirminhalt auf.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Nutzungszugriff</string>
+    <string name="perm_usage_body">Wird verwendet, um zu erkennen, wann Sie auf dem Startbildschirm sind, um die Uhr-Überlagerung umzuschalten. Es werden keine persönlichen Daten zugegriffen.</string>
+</resources>

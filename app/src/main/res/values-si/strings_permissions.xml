@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">වෙනත් යෙදුම් මත ප්‍රදර්ශනය කරන්න</string>
+    <string name="perm_overlay_body">ඔබගේ නිවසේ තිරයේ ඔරලෝසු මුහුදු ප්‍රදර්ශනය කිරීමට අවශ්‍යයි. මෙම යෙදුම තිර අන්තර්ගතයන් රැස් කරන්නේ නැතිනම් රෙකෝඩ් කරන්නේ නැතිනම්.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">භාවිතා ප්‍රවේශය</string>
+    <string name="perm_usage_body">නිවසේ තිරයේ සිටීම අනාවරණය කිරීම සඳහා භාවිතා කරනු ලැබේ ඔරලෝසු ඕවර්ලේ ටෝගල් කිරීමට. පුද්ගලික දත්ත ප්‍රවේශය නොලැබේ.</string>
+</resources>

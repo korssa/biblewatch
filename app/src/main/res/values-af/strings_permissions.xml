@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Vertoon oor ander toepassings</string>
+    <string name="perm_overlay_body">Vereis om die horlosiegesig op jou Tuis-skerm te wys. Hierdie app versamel of neem nie enige skerminhoud op nie.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Gebruikstoegang</string>
+    <string name="perm_usage_body">Gebruik om te bespeur wanneer jy op die Tuis-skerm is om die horlosie-oortrek te skakel. Geen persoonlike data word toegang gegee nie.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Prikaži nad drugimi aplikacijami</string>
+    <string name="perm_overlay_body">Potrebno za prikazovanje številčnice ure na vašem začetnem zaslonu. Ta aplikacija ne zbira ali snema nobene vsebine zaslona.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Dostop do uporabe</string>
+    <string name="perm_usage_body">Uporablja se za zaznavanje, kdaj ste na začetnem zaslonu, da preklopite prekrivanje ure. Ni dostopa do osebnih podatkov.</string>
+</resources>

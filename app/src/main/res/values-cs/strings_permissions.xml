@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Zobrazit přes jiné aplikace</string>
+    <string name="perm_overlay_body">Vyžadováno pro zobrazení ciferníku na vaší domovské obrazovce. Tato aplikace nesbírá ani nezaznamenává žádný obsah obrazovky.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Přístup k použití</string>
+    <string name="perm_usage_body">Používá se k detekci, kdy jste na domovské obrazovce, pro přepnutí překryvu hodin. Nejsou přístupná žádná osobní data.</string>
+</resources>

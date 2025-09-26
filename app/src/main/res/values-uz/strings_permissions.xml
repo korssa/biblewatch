@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Boshqa ilovalarda ko\'rsatish</string>
+    <string name="perm_overlay_body">Uy ekraningizda soat yuzini ko\'rsatish uchun kerak. Bu ilova hech qanday ekran mazmunini to\'plamaydi yoki yozib olmaydi.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Foydalanishga kirish</string>
+    <string name="perm_usage_body">Uy ekranda ekanligingizni aniqlash uchun ishlatiladi soat qoplamasini o\'zgartirish uchun. Hech qanday shaxsiy ma\'lumotlarga kirish yo\'q.</string>
+</resources>

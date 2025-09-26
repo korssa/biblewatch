@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">အခြားအက်ပ်များပေါ်တွင် ပြရန်</string>
+    <string name="perm_overlay_body">သင့်အိမ်စခရင်ပေါ်တွင် နာရီမျက်နှာပြင်ကို ပြရန် လိုအပ်သည်။ ဤအက်ပ်သည် စခရင်အကြောင်းအရာများကို စုဆောင်းခြင်း သို့မဟုတ် မှတ်တမ်းတင်ခြင်း မပြုပါ။</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">အသုံးပြုခွင့် ဝင်ရောက်ခွင့်</string>
+    <string name="perm_usage_body">သင် အိမ်စခရင်ပေါ်တွင် ရှိနေသည့်အခါ နာရီအိုဗာလေကို ပြောင်းရန် သုံးသည်။ ကိုယ်ရေးကိုယ်တာ ဒေတာများကို ဝင်ရောက်ခြင်း မရှိပါ။</string>
+</resources>

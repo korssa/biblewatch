@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Відображати поверх інших додатків</string>
+    <string name="perm_overlay_body">Потрібно для відображення циферблата годинника на вашому головному екрані. Цей додаток не збирає та не записує жодного вмісту екрана.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Доступ до використання</string>
+    <string name="perm_usage_body">Використовується для виявлення, коли ви на головному екрані, щоб перемкнути накладення годинника. Особисті дані не доступні.</string>
+</resources>

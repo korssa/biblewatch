@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Башка колдонмолордун үстүндө көрсөтүү</string>
+    <string name="perm_overlay_body">Сиздин үй экраныңда сааттын жүзүн көрсөтүү үчүн керек. Бул колдонмо экран мазмунун жыйнабастан же жазбастан.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Колдонуу мүмкүнчүлүгү</string>
+    <string name="perm_usage_body">Үй экраныңда болгондо аныктөө үчүн колдонулат, сааттын капталысын өзгөртүү үчүн. Жеке маалыматтарга мүмкүнчүлүк жок.</string>
+</resources>

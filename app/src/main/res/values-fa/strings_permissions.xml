@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">نمایش روی سایر برنامه‌ها</string>
+    <string name="perm_overlay_body">برای نمایش صفحه ساعت روی صفحه اصلی شما لازم است. این برنامه هیچ محتوای صفحه‌ای را جمع‌آوری یا ضبط نمی‌کند.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">دسترسی به استفاده</string>
+    <string name="perm_usage_body">برای تشخیص زمانی که روی صفحه اصلی هستید استفاده می‌شود تا پوشش ساعت را تغییر دهد. هیچ داده شخصی دسترسی داده نمی‌شود.</string>
+</resources>

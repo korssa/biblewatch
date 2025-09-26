@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">הצג מעל אפליקציות אחרות</string>
+    <string name="perm_overlay_body">נדרש כדי להציג את פני השעון במסך הבית שלך. אפליקציה זו לא אוספת או מתעדת כל תוכן מסך.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">גישה לשימוש</string>
+    <string name="perm_usage_body">משמש לזיהוי מתי אתה במסך הבית כדי להחליף את שכבת השעון. אין גישה לנתונים אישיים.</string>
+</resources>

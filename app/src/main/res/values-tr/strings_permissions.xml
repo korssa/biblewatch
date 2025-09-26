@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Diğer uygulamaların üzerinde göster</string>
+    <string name="perm_overlay_body">Ana ekranınızda saat yüzünü göstermek için gereklidir. Bu uygulama hiçbir ekran içeriğini toplamaz veya kaydetmez.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Kullanım erişimi</string>
+    <string name="perm_usage_body">Ana ekranda olduğunuzu algılamak için kullanılır saat kaplamasını değiştirmek için. Kişisel verilere erişilmez.</string>
+</resources>

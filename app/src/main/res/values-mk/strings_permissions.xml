@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Прикажи над други апликации</string>
+    <string name="perm_overlay_body">Потребно за прикажување на бројчаникот на часовникот на вашиот почетен екран. Оваа апликација не собира ниту снима никаква содржина на екранот.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Пристап до користење</string>
+    <string name="perm_usage_body">Се користи за откривање кога сте на почетниот екран за да се префрли прекривањето на часовникот. Нема пристап до лични податоци.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Weergeven over andere apps</string>
+    <string name="perm_overlay_body">Vereist om het horlogegezicht op je startscherm weer te geven. Deze app verzamelt of registreert geen scherminhoud.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Gebruiks toegang</string>
+    <string name="perm_usage_body">Gebruikt om te detecteren wanneer je op het startscherm bent om de horloge-overlay te schakelen. Er wordt geen toegang tot persoonlijke gegevens verkregen.</string>
+</resources>

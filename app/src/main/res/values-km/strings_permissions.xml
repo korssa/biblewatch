@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">បង្ហាញលើកម្មវិធីផ្សេងទៀត</string>
+    <string name="perm_overlay_body">ត្រូវការដើម្បីបង្ហាញមុខនាឡិកានៅលើអេក្រង់ដើមរបស់អ្នក។ កម្មវិធីនេះមិនប្រមូលឬកត់ត្រាមាតិកាអេក្រង់ណាមួយទេ។</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ការចូលប្រើការប្រើប្រាស់</string>
+    <string name="perm_usage_body">ត្រូវបានប្រើដើម្បីរកឃើញនៅពេលអ្នកនៅលើអេក្រង់ដើមដើម្បីប្តូរការបង្ហាញនាឡិកា។ មិនមានការចូលប្រើទិន្នន័យផ្ទាល់ខ្លួនទេ។</string>
+</resources>

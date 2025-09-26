@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Afficher sur d\'autres applications</string>
+    <string name="perm_overlay_body">Requis pour afficher le cadran de la montre sur votre écran d\'accueil. Cette application ne collecte ni n\'enregistre aucun contenu d\'écran.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Accès à l\'utilisation</string>
+    <string name="perm_usage_body">Utilisé pour détecter quand vous êtes sur l\'écran d\'accueil pour basculer l\'overlay de la montre. Aucune donnée personnelle n\'est accessible.</string>
+</resources>

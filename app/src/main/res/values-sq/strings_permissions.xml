@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Shfaq mbi aplikacionet e tjera</string>
+    <string name="perm_overlay_body">Kërkohet për të shfaqur fytyrën e orës në ekranin tuaj kryesor. Ky aplikacion nuk mbledh ose regjistron asnjë përmbajtje ekrani.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Qasja në përdorim</string>
+    <string name="perm_usage_body">Përdoret për të zbuluar kur jeni në ekranin kryesor për të ndryshuar mbivendosjen e orës. Nuk ka qasje në të dhëna personale.</string>
+</resources>

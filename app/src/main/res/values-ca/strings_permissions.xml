@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Mostrar sobre altres aplicacions</string>
+    <string name="perm_overlay_body">Necessari per mostrar la cara del rellotge a la teva pantalla d\'inici. Aquesta aplicació no recull ni registra cap contingut de pantalla.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Accés a l\'ús</string>
+    <string name="perm_usage_body">S\'utilitza per detectar quan estàs a la pantalla d\'inici per alternar la superposició del rellotge. No s\'accedeix a cap dada personal.</string>
+</resources>

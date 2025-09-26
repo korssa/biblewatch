@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Vis over andre apper</string>
+    <string name="perm_overlay_body">Påkrevd for å vise klokkeansiktet på hjemmeskjermen din. Denne appen samler ikke inn eller registrerer noe skjerminnhold.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Tilgang til bruk</string>
+    <string name="perm_usage_body">Brukes til å oppdage når du er på hjemmeskjermen for å veksle klokkeoverlegget. Ingen personlige data tilgås.</string>
+</resources>

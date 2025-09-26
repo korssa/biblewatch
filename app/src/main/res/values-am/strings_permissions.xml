@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">በሌሎች መተግበሪያዎች ላይ ለማሳየት</string>
+    <string name="perm_overlay_body">በመነሻ ስክሪን ላይ የያዝ ፊት ለማሳየት ያስፈልጋል። ይህ መተግበሪያ ምንም የስክሪን ይዘት አያስቀምጥም ያልም አያስቀምጥም።</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">የአጠቃቀም መዳረሻ</string>
+    <string name="perm_usage_body">በመነሻ ስክሪን ላይ ስትሆን ለማወቅ እና የያዝ መሸፈኛ ለማስቀለበሽ ያገለግላል። ምንም የግል ውሂብ አያገኝም።</string>
+</resources>

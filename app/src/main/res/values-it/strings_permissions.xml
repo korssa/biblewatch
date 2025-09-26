@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Visualizza sopra altre app</string>
+    <string name="perm_overlay_body">Richiesto per mostrare il quadrante dell\'orologio sulla tua schermata iniziale. Questa app non raccoglie né registra alcun contenuto dello schermo.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Accesso all\'utilizzo</string>
+    <string name="perm_usage_body">Utilizzato per rilevare quando sei sulla schermata iniziale per alternare l\'overlay dell\'orologio. Non vengono accessi dati personali.</string>
+</resources>

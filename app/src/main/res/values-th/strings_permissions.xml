@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">แสดงเหนือแอปอื่นๆ</string>
+    <string name="perm_overlay_body">จำเป็นต้องแสดงหน้าปัดนาฬิกาบนหน้าจอหลักของคุณ แอปนี้ไม่รวบรวมหรือบันทึกเนื้อหาจอภาพใดๆ</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">การเข้าถึงการใช้งาน</string>
+    <string name="perm_usage_body">ใช้เพื่อตรวจสอบเมื่อคุณอยู่บนหน้าจอหลักเพื่อสลับการโอเวอร์เลย์นาฬิกา ไม่มีการเข้าถึงข้อมูลส่วนตัว</string>
+</resources>

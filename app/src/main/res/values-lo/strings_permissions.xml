@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">ສະແດງຢູ່ເທິງແອັບພລິເຄຊັນອື່ນໆ</string>
+    <string name="perm_overlay_body">ຕ້ອງການເພື່ອສະແດງໃບໜ້າໂມງຢູ່ໜ້າຈໍເຮືອນຂອງທ່ານ. ແອັບພລິເຄຊັນນີ້ບໍ່ເກັບກໍຍຫຼືບັນທຶກເນື້ອຫາຈໍປະເພດໃດໆ.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ການເຂົ້າເຖິງການນໍາໃຊ້</string>
+    <string name="perm_usage_body">ໃຊ້ເພື່ອກວດພົບເມື່ອທ່ານຢູ່ໜ້າຈໍເຮືອນເພື່ອສະຫຼັບການປົກຄຸມໂມງ. ບໍ່ມີການເຂົ້າເຖິງຂໍ້ມູນສ່ວນຕົວ.</string>
+</resources>

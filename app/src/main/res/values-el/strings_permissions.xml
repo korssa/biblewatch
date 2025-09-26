@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Εμφάνιση πάνω από άλλες εφαρμογές</string>
+    <string name="perm_overlay_body">Απαιτείται για την εμφάνιση του καντράν του ρολογιού στην αρχική οθόνη σας. Αυτή η εφαρμογή δεν συλλέγει ή καταγράφει οποιοδήποτε περιεχόμενο οθόνης.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Πρόσβαση χρήσης</string>
+    <string name="perm_usage_body">Χρησιμοποιείται για την ανίχνευση πότε βρίσκεστε στην αρχική οθόνη για να εναλλάξετε την επικάλυψη του ρολογιού. Δεν γίνεται πρόσβαση σε προσωπικά δεδομένα.</string>
+</resources>

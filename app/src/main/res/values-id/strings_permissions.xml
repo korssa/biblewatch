@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Tampilkan di atas aplikasi lain</string>
+    <string name="perm_overlay_body">Diperlukan untuk menampilkan wajah jam di layar Beranda Anda. Aplikasi ini tidak mengumpulkan atau merekam konten layar apa pun.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Akses penggunaan</string>
+    <string name="perm_usage_body">Digunakan untuk mendeteksi kapan Anda berada di layar Beranda untuk mengaktifkan overlay jam. Tidak ada data pribadi yang diakses.</string>
+</resources>

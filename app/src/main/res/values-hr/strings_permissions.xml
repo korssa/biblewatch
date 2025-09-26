@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Prikaži preko drugih aplikacija</string>
+    <string name="perm_overlay_body">Potrebno za prikazivanje brojčanika na vašem početnom ekranu. Ova aplikacija ne prikuplja niti snima bilo koji sadržaj ekrana.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Pristup korištenju</string>
+    <string name="perm_usage_body">Koristi se za otkrivanje kada ste na početnom ekranu kako biste prebacili prekrivanje sata. Nema pristupa osobnim podacima.</string>
+</resources>

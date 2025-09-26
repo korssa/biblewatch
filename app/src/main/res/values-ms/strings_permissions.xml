@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Paparkan di atas aplikasi lain</string>
+    <string name="perm_overlay_body">Diperlukan untuk memaparkan muka jam di skrin Rumah anda. Aplikasi ini tidak mengumpul atau merakam sebarang kandungan skrin.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Akses penggunaan</string>
+    <string name="perm_usage_body">Digunakan untuk mengesan apabila anda berada di skrin Rumah untuk menogol overlay jam. Tiada data peribadi diakses.</string>
+</resources>

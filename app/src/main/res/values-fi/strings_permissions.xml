@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Näytä muiden sovellusten päällä</string>
+    <string name="perm_overlay_body">Vaaditaan kellotaulun näyttämiseksi kotinäytössäsi. Tämä sovellus ei kerää tai tallenna mitään näytön sisältöä.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Käyttöoikeus</string>
+    <string name="perm_usage_body">Käytetään havaitsemaan, milloin olet kotinäytössä kellon peittokuvan vaihtamiseksi. Henkilötietoja ei käytetä.</string>
+</resources>

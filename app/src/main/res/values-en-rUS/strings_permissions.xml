@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Display over other apps</string>
+    <string name="perm_overlay_body">Required to show the watch face on your Home screen. This app does not collect or record any screen content.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Usage access</string>
+    <string name="perm_usage_body">Used to detect when you are on the Home screen to toggle the watch overlay. No personal data is accessed.</string>
+</resources>

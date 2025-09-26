@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Digər tətbiqlər üzərində göstərmək</string>
+    <string name="perm_overlay_body">Əsas ekranda saat üzünü göstərmək üçün tələb olunur. Bu tətbiq heç bir ekran məzmununu toplamır və ya qeyd etmir.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">İstifadə girişi</string>
+    <string name="perm_usage_body">Əsas ekranda olduğunuzu aşkar etmək və saat örtüyünü dəyişdirmək üçün istifadə olunur. Heç bir şəxsi məlumat əldə edilmir.</string>
+</resources>

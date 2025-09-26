@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Mostrar sobre otras aplicaciones</string>
+    <string name="perm_overlay_body">Requerido para mostrar la esfera del reloj en tu pantalla de inicio. Esta aplicación no recopila ni registra ningún contenido de pantalla.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Acceso al uso</string>
+    <string name="perm_usage_body">Se utiliza para detectar cuándo estás en la pantalla de inicio para alternar la superposición del reloj. No se accede a datos personales.</string>
+</resources>

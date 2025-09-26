@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">العرض فوق التطبيقات الأخرى</string>
+    <string name="perm_overlay_body">مطلوب لعرض وجه الساعة على شاشتك الرئيسية. هذا التطبيق لا يجمع أو يسجل أي محتوى شاشة.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">الوصول إلى الاستخدام</string>
+    <string name="perm_usage_body">يُستخدم للكشف عن وقت وجودك على الشاشة الرئيسية لتبديل تراكب الساعة. لا يتم الوصول إلى أي بيانات شخصية.</string>
+</resources>

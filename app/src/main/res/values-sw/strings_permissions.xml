@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Onyesha juu ya programu zingine</string>
+    <string name="perm_overlay_body">Inahitajika ili kuonyesha uso wa saa kwenye skrini yako ya nyumbani. Programu hii haikusanyi au kurekodi maudhui yoyote ya skrini.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Ufikiaji wa matumizi</string>
+    <string name="perm_usage_body">Inatumika kugundua wakati uko kwenye skrini ya nyumbani ili kubadilisha uwekaji juu wa saa. Hakuna data ya kibinafsi inafikiwa.</string>
+</resources>

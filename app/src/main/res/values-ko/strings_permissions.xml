@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">다른 앱 위에 표시</string>
+    <string name="perm_overlay_body">홈 화면에 시계 얼굴을 표시하는 데 필요합니다. 이 앱은 화면 콘텐츠를 수집하거나 기록하지 않습니다.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">사용 액세스</string>
+    <string name="perm_usage_body">홈 화면에 있을 때를 감지하여 시계 오버레이를 전환하는 데 사용됩니다. 개인 데이터에 액세스하지 않습니다.</string>
+</resources>

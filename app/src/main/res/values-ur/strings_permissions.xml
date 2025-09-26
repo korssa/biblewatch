@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">دوسری ایپس پر دکھائیں</string>
+    <string name="perm_overlay_body">آپ کی ہوم اسکرین پر واچ فیز دکھانے کے لیے ضروری ہے۔ یہ ایپ کوئی بھی اسکرین مواد جمع نہیں کرتی یا ریکارڈ نہیں کرتی۔</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">استعمال رسائی</string>
+    <string name="perm_usage_body">ہوم اسکرین پر ہونے کا پتہ لگانے کے لیے استعمال کیا جاتا ہے واچ اوورلے ٹوگل کرنے کے لیے۔ کوئی بھی ذاتی ڈیٹا رسائی نہیں کی جاتی۔</string>
+</resources>

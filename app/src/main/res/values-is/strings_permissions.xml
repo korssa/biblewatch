@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Birta yfir öðrum forritum</string>
+    <string name="perm_overlay_body">Nauðsynlegt til að sýna útlit klukkunnar á heimaskjánum þínum. Þetta forrit safnar ekki eða skráir neitt skjáskrá.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Aðgangur að notkun</string>
+    <string name="perm_usage_body">Notað til að greina þegar þú ert á heimaskjánum til að skipta yfir klukkuna. Engin persónuupplýsingar eru aðgengilegar.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">სხვა აპლიკაციებზე ჩვენება</string>
+    <string name="perm_overlay_body">საჭიროა საათის ციფერბლატის ჩვენებისთვის თქვენს მთავარ ეკრანზე. ეს აპლიკაცია არ აგროვებს და არ იწერს ეკრანის კონტენტს.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">გამოყენების წვდომა</string>
+    <string name="perm_usage_body">გამოიყენება მთავარ ეკრანზე ყოფნის დასადგენად საათის ოვერლეის გადასართავად. პირადი მონაცემები არ არის წვდომადი.</string>
+</resources>

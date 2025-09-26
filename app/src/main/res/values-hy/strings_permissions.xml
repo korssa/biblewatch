@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Ցուցադրել այլ հավելվածների վրա</string>
+    <string name="perm_overlay_body">Պահանջվում է ժամացույցի դեմքը ցուցադրելու համար ձեր գլխավոր էկրանին: Այս հավելվածը չի հավաքում կամ գրանցում որևէ էկրանի բովանդակություն:</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Օգտագործման մուտք</string>
+    <string name="perm_usage_body">Օգտագործվում է հայտնաբերելու համար, երբ դուք գտնվում եք գլխավոր էկրանին ժամացույցի ծածկույթը փոխելու համար: Ոչ մի անձնական տվյալներ չեն մուտքագրվում:</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">在其他應用程式上顯示</string>
+    <string name="perm_overlay_body">需要在您的主螢幕上顯示手錶錶盤。此應用程式不會收集或記錄任何螢幕內容。</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">使用訪問權限</string>
+    <string name="perm_usage_body">用於檢測您何時在主螢幕上以切換手錶疊加層。不訪問任何個人資料。</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Rodyti virš kitų programų</string>
+    <string name="perm_overlay_body">Reikalinga, kad būtų rodomas laikrodžio ciferblatas jūsų pradiniame ekrane. Ši programa nerenka ir neįrašo jokio ekrano turinio.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Prieiga prie naudojimo</string>
+    <string name="perm_usage_body">Naudojama aptikti, kada esate pradiniame ekrane, kad perjungti laikrodžio perdangą. Nėra prieigos prie asmeninių duomenų.</string>
+</resources>

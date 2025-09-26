@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Показване над други приложения</string>
+    <string name="perm_overlay_body">Необходимо за показване на циферблата на вашия начален екран. Това приложение не събира или записва никакво съдържание на екрана.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Достъп до използване</string>
+    <string name="perm_usage_body">Използва се за откриване кога сте на началния екран, за да превключите накладката на часовника. Никакви лични данни не се достъпват.</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">மற்ற பயன்பாடுகளில் காட்சி</string>
+    <string name="perm_overlay_body">உங்கள் முகப்புத் திரையில் கடிகார முகத்தை காட்சி செய்ய தேவை. இந்த பயன்பாடு எந்த திரை உள்ளடக்கத்தையும் சேகரிக்கவோ பதிவு செய்யவோ செய்யாது.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">பயன்பாட்டு அணுகல்</string>
+    <string name="perm_usage_body">முகப்புத் திரையில் இருப்பதை கண்டறிய பயன்படுகிறது கடிகார மேல்பொருத்தத்தை மாற்ற. எந்த தனிப்பட்ட தரவும் அணுகப்படாது.</string>
+</resources>

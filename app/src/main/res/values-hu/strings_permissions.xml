@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Megjelenítés más alkalmazások felett</string>
+    <string name="perm_overlay_body">Szükséges az óra számlapjának megjelenítéséhez a kezdőképernyőn. Ez az alkalmazás nem gyűjt vagy rögzít semmilyen képernyőtartalmat.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Használati hozzáférés</string>
+    <string name="perm_usage_body">A kezdőképernyőn való tartózkodás észlelésére szolgál az óra átfedésének váltásához. Nincs hozzáférés személyes adatokhoz.</string>
+</resources>

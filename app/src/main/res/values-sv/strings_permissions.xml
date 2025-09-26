@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Visa över andra appar</string>
+    <string name="perm_overlay_body">Krävs för att visa klockans ansikte på din hemskärm. Den här appen samlar inte in eller spelar in något skärminnehåll.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Åtkomst till användning</string>
+    <string name="perm_usage_body">Används för att upptäcka när du är på hemskärmen för att växla klocköverlagringen. Ingen personlig data nås.</string>
+</resources>

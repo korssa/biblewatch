@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">在其他应用上显示</string>
+    <string name="perm_overlay_body">需要在您的主屏幕上显示手表表盘。此应用不会收集或记录任何屏幕内容。</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">使用访问权限</string>
+    <string name="perm_usage_body">用于检测您何时在主屏幕上以切换手表叠加层。不访问任何个人数据。</string>
+</resources>

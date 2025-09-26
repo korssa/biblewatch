@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Ipakita sa ibabaw ng ibang apps</string>
+    <string name="perm_overlay_body">Kinakailangan upang ipakita ang mukha ng relo sa iyong Home screen. Ang app na ito ay hindi nangongolekta o nagtatala ng anumang nilalaman ng screen.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Pag-access sa paggamit</string>
+    <string name="perm_usage_body">Ginagamit upang tukuyin kung nasa Home screen ka upang i-toggle ang overlay ng relo. Walang personal na data ang na-access.</string>
+</resources>

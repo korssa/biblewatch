@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">अन्य ऐप्स पर प्रदर्शित करें</string>
+    <string name="perm_overlay_body">आपकी होम स्क्रीन पर वॉच फेस दिखाने के लिए आवश्यक है। यह ऐप कोई भी स्क्रीन सामग्री एकत्र या रिकॉर्ड नहीं करता है।</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">उपयोग पहुंच</string>
+    <string name="perm_usage_body">होम स्क्रीन पर होने का पता लगाने के लिए उपयोग किया जाता है ताकि वॉच ओवरले को टॉगल किया जा सके। कोई व्यक्तिगत डेटा एक्सेस नहीं किया जाता है।</string>
+</resources>

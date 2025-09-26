@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">മറ്റ് ആപ്പുകളിൽ പ്രദർശിപ്പിക്കുക</string>
+    <string name="perm_overlay_body">നിങ്ങളുടെ ഹോം സ്ക്രീനിൽ വാച്ച് ഫെയ്സ് കാണിക്കുന്നതിന് ആവശ്യമാണ്. ഈ ആപ്പ് ഏതെങ്കിലും സ്ക്രീൻ ഉള്ളടക്കം ശേഖരിക്കുകയോ രേഖപ്പെടുത്തുകയോ ചെയ്യുന്നില്ല.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ഉപയോഗ ആക്സസ്</string>
+    <string name="perm_usage_body">ഹോം സ്ക്രീനിൽ നിങ്ങൾ ഉണ്ടെന്ന് കണ്ടെത്താൻ ഉപയോഗിക്കുന്നു വാച്ച് ഓവർലേ ടോഗിൾ ചെയ്യാൻ. യാതൊരു വ്യക്തിഗത ഡാറ്റയും ആക്സസ് ചെയ്യുന്നില്ല.</string>
+</resources>

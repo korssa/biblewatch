@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Бусад аппууд дээр харуулах</string>
+    <string name="perm_overlay_body">Таны гэр дэлгэц дээр цагийн нүүрийг харуулахад шаардлагатай. Энэ апп ямар ч дэлгэцийн агуулгыг цуглуулдаггүй эсвэл бичдэггүй.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Ашиглалтын хандалт</string>
+    <string name="perm_usage_body">Гэр дэлгэц дээр байгаа эсэхийг илрүүлэхэд ашигладаг цагийн давхаргыг солих. Хувийн өгөгдөлд ханддаггүй.</string>
+</resources>

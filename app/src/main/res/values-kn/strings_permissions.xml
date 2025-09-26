@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">ಇತರ ಅಪ್ಲಿಕೇಶನ್‌ಗಳ ಮೇಲೆ ಪ್ರದರ್ಶಿಸಿ</string>
+    <string name="perm_overlay_body">ನಿಮ್ಮ ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ವಾಚ್ ಫೇಸ್ ಅನ್ನು ತೋರಿಸಲು ಅಗತ್ಯವಿದೆ. ಈ ಅಪ್ಲಿಕೇಶನ್ ಯಾವುದೇ ಸ್ಕ್ರೀನ್ ಕಂಟೆಂಟ್ ಅನ್ನು ಸಂಗ್ರಹಿಸುವುದಿಲ್ಲ ಅಥವಾ ರೆಕಾರ್ಡ್ ಮಾಡುವುದಿಲ್ಲ.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ಬಳಕೆ ಪ್ರವೇಶ</string>
+    <string name="perm_usage_body">ನೀವು ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿದ್ದಾಗ ಪತ್ತೆ ಮಾಡಲು ಬಳಸಲಾಗುತ್ತದೆ ವಾಚ್ ಓವರ್ಲೇ ಅನ್ನು ಟಾಗಲ್ ಮಾಡಲು. ಯಾವುದೇ ವೈಯಕ್ತಿಕ ಡೇಟಾ ಪ್ರವೇಶಿಸಲಾಗುವುದಿಲ್ಲ.</string>
+</resources>

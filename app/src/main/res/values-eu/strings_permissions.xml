@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Beste aplikazioen gainetik erakutsi</string>
+    <string name="perm_overlay_body">Beharrezkoa da erlojua zure hasierako pantailan erakusteko. Aplikazio honek ez du pantailaren eduki bat ere biltzen edo grabatzen.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Erabilera sarbidea</string>
+    <string name="perm_usage_body">Erabiltzen da hasierako pantailan zaudenean detektatzeko erlojua gainjarriko dena txandakatzeko. Ez da datu pertsonalik atzitzen.</string>
+</resources>

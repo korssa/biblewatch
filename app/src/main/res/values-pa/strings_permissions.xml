@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">ਹੋਰ ਐਪਸ ਉੱਤੇ ਦਿਖਾਓ</string>
+    <string name="perm_overlay_body">ਤੁਹਾਡੀ ਹੋਮ ਸਕ੍ਰੀਨ ਉੱਤੇ ਵਾਚ ਫੇਸ ਦਿਖਾਉਣ ਲਈ ਲੋੜੀਂਦਾ ਹੈ। ਇਹ ਐਪ ਕੋਈ ਵੀ ਸਕ੍ਰੀਨ ਸਮੱਗਰੀ ਇਕੱਠੀ ਨਹੀਂ ਕਰਦੀ ਜਾਂ ਰਿਕਾਰਡ ਨਹੀਂ ਕਰਦੀ।</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ਵਰਤੋਂ ਪਹੁੰਚ</string>
+    <string name="perm_usage_body">ਹੋਮ ਸਕ੍ਰੀਨ ਉੱਤੇ ਹੋਣ ਦਾ ਪਤਾ ਲਗਾਉਣ ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ ਵਾਚ ਓਵਰਲੇ ਟੌਗਲ ਕਰਨ ਲਈ। ਕੋਈ ਵੀ ਵਿਅਕਤੀਗਤ ਡੇਟਾ ਪਹੁੰਚ ਨਹੀਂ ਕੀਤਾ ਜਾਂਦਾ।</string>
+</resources>

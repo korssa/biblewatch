@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">अन्य एपहरूमा प्रदर्शन गर्नुहोस्</string>
+    <string name="perm_overlay_body">तपाईको होम स्क्रिनमा वाच फेस देखाउन आवश्यक छ। यो एपले कुनै पनि स्क्रिन सामग्री संकलन गर्दैन वा रेकर्ड गर्दैन।</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">प्रयोग पहुँच</string>
+    <string name="perm_usage_body">होम स्क्रिनमा भएको बेला पत्ता लगाउन प्रयोग गरिन्छ वाच ओभरले टगल गर्न। कुनै पनि व्यक्तिगत डेटा पहुँच गरिँदैन।</string>
+</resources>

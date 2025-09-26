@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Отображать поверх других приложений</string>
+    <string name="perm_overlay_body">Требуется для отображения циферблата часов на вашем главном экране. Это приложение не собирает и не записывает никакого содержимого экрана.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Доступ к использованию</string>
+    <string name="perm_usage_body">Используется для обнаружения, когда вы находитесь на главном экране, чтобы переключить наложение часов. Личные данные не доступны.</string>
+</resources>

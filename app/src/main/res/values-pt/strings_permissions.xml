@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Mostrar sobre outras aplicações</string>
+    <string name="perm_overlay_body">Necessário para mostrar o mostrador do relógio na sua tela inicial. Esta aplicação não recolhe nem regista qualquer conteúdo do ecrã.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Acesso à utilização</string>
+    <string name="perm_usage_body">Utilizado para detetar quando está no ecrã inicial para alternar a sobreposição do relógio. Não é acedido a dados pessoais.</string>
+</resources>

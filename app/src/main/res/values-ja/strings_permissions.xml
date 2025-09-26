@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">他のアプリの上に表示</string>
+    <string name="perm_overlay_body">ホーム画面に時計の文字盤を表示するために必要です。このアプリは画面コンテンツを収集または記録しません。</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">使用アクセス</string>
+    <string name="perm_usage_body">ホーム画面にいることを検出して時計のオーバーレイを切り替えるために使用されます。個人データにはアクセスされません。</string>
+</resources>

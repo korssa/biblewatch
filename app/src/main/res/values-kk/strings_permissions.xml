@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Басқа қолданбалардың үстінде көрсету</string>
+    <string name="perm_overlay_body">Басты экранда сағат бетін көрсету үшін қажет. Бұл қолданба экран мазмұнын жинамайды немесе жазбайды.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Пайдалануға рұқсат</string>
+    <string name="perm_usage_body">Басты экранда болған кезде сағат қабаттамасын ауыстыру үшін қолданылады. Жеке деректерге рұқсат жоқ.</string>
+</resources>

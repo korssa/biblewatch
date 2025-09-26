@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">অন্যান্য অ্যাপের উপর প্রদর্শন</string>
+    <string name="perm_overlay_body">আপনার হোম স্ক্রিনে ওয়াচ ফেস দেখানোর জন্য প্রয়োজনীয়। এই অ্যাপটি কোনো স্ক্রিন কনটেন্ট সংগ্রহ বা রেকর্ড করে না।</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">ব্যবহার অ্যাক্সেস</string>
+    <string name="perm_usage_body">হোম স্ক্রিনে থাকলে সনাক্ত করতে এবং ওয়াচ ওভারলে টগল করতে ব্যবহৃত হয়। কোনো ব্যক্তিগত ডেটা অ্যাক্সেস করা হয় না।</string>
+</resources>

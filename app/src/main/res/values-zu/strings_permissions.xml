@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Bonisa phezu kwezinye izinhlelo zokusebenza</string>
+    <string name="perm_overlay_body">Kudingeka ukubonisa ubuso bewashi esikrinini sakho sasekhaya. Lolu hlelo lokusebenza aluqoki noma alurekhodi noma yikuphi okuqukethwe kwesikrini.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Ukufinyelela kokusetshenziswa</string>
+    <string name="perm_usage_body">Kusetshenziselwa ukuthola ukuthi usesikrinini sasekhaya nini ukuze ushintshe isembozo sewashi. Akukho ukufinyelela kwemininingwane yomuntu siqu.</string>
+</resources>

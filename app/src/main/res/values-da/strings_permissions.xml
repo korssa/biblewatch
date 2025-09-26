@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Vis over andre apps</string>
+    <string name="perm_overlay_body">Påkrævet for at vise urskiven på din startskærm. Denne app indsamler eller optager ikke noget skærmindhold.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Adgang til brug</string>
+    <string name="perm_usage_body">Bruges til at opdage, når du er på startskærmen, for at skifte ur-overlejringen. Ingen personlige data tilgås.</string>
+</resources>

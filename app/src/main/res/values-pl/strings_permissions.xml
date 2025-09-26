@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Overlay permission copy -->
+    <string name="perm_overlay_title">Wyświetlaj nad innymi aplikacjami</string>
+    <string name="perm_overlay_body">Wymagane, aby wyświetlić tarczę zegarka na Twoim ekranie głównym. Ta aplikacja nie zbiera ani nie rejestruje żadnej zawartości ekranu.</string>
+
+    <!-- Usage access permission copy -->
+    <string name="perm_usage_title">Dostęp do użytkowania</string>
+    <string name="perm_usage_body">Używane do wykrywania, kiedy jesteś na ekranie głównym, aby przełączyć nakładkę zegarka. Nie ma dostępu do danych osobowych.</string>
+</resources>
