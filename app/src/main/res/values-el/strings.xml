@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ρολόι Βίβλου</string>
+    <string name="biblewatch_header">Τώρα είναι %1$s %2$s</string>
+    <string name="title_bible_watch">ΡΟΛΟΙ ΒΙΒΛΟΥ</string>
+    <string name="permission_desc">Μέσω αδειών, η εφαρμογή εμφανίζει το ρολόι στην αρχική οθόνη και λειτουργεί ομαλά.</string>
+
+    <!-- Κύρια οθόνη -->
+    <string name="overlay_permission_title">Άδεια επικάλυψης</string>
+    <string name="usage_access_permission_title">Άδεια πρόσβασης χρήσης</string>
+    <string name="request_overlay_button_label">👉 Ζητήστε άδεια επικάλυψης</string>
+    <string name="overlay_granted_label">Η άδεια επικάλυψης χορηγήθηκε</string>
+    <string name="request_usage_button_label">👉 Ζητήστε πρόσβαση χρήσης</string>
+    <string name="usage_granted_label">Η πρόσβαση χρήσης χορηγήθηκε</string>
+    <string name="start_overlay_button">Ξεκινήστε επικάλυψη</string>
+    <string name="stop_overlay_button">Σταματήστε επικάλυψη</string>
+    <string name="open_anim_settings_button">Προαιρετικά: Ενεργοποιήστε/Απενεργοποιήστε κινούμενα σχέδια</string>
+    <string name="status_granted">✅ Χορηγήθηκε</string>
+    <string name="status_needed">❌ Απαιτείται</string>
+
+    <!-- Οθόνη ρυθμίσεων κινούμενων σχεδίων -->
+    <string name="anim_settings_title">Ενεργοποιήστε/Απενεργοποιήστε κινούμενα σχέδια</string>
+    <string name="anim_settings_subtitle">Ενεργοποιήστε μόνο αυτό που θέλετε \n— Εξοικονομήστε μπαταρία</string>
+    <string name="switch_rays_fairy_bg">Ακτίνες, Νεράιδα, Φόντο</string>
+    <string name="switch_bible">Βίβλος</string>
+    <string name="switch_clock">Ρολόι</string>
+    <string name="switch_images">Ιησούς</string>
+    <string name="apply_selection_button">Εφαρμόστε επιλογή</string>
+    
+</resources>

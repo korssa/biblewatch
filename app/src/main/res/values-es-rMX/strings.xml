@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Reloj Bíblico</string>
+    <string name="biblewatch_header">Ahora es %1$s %2$s</string>
+    <string name="title_bible_watch">RELOJ BÍBLICO</string>
+    <string name="permission_desc">A través de permisos, la app muestra el reloj en la pantalla de inicio y funciona sin problemas.</string>
+
+    <!-- Pantalla Principal -->
+    <string name="overlay_permission_title">Permiso de superposición</string>
+    <string name="usage_access_permission_title">Permiso de acceso al uso</string>
+    <string name="request_overlay_button_label">👉 Solicitar permiso de superposición</string>
+    <string name="overlay_granted_label">Permiso de superposición concedido</string>
+    <string name="request_usage_button_label">👉 Solicitar acceso al uso</string>
+    <string name="usage_granted_label">Acceso al uso concedido</string>
+    <string name="start_overlay_button">Iniciar superposición</string>
+    <string name="stop_overlay_button">Detener superposición</string>
+    <string name="open_anim_settings_button">Opcional: Activar/Desactivar animación</string>
+    <string name="status_granted">✅ Concedido</string>
+    <string name="status_needed">❌ Necesario</string>
+
+    <!-- Pantalla de Configuración de Animación -->
+    <string name="anim_settings_title">Activar/Desactivar animación</string>
+    <string name="anim_settings_subtitle">Activa solo lo que quieras \n— Ahorra batería</string>
+    <string name="switch_rays_fairy_bg">Rayos, Hada, Fondo</string>
+    <string name="switch_bible">Biblia</string>
+    <string name="switch_clock">Reloj</string>
+    <string name="switch_images">Jesús</string>
+    <string name="apply_selection_button">Aplicar selección</string>
+    
+</resources>

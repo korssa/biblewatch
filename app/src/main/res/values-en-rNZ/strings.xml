@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bible Watch</string>
+    <string name="biblewatch_header">It is now %1$s %2$s</string>
+    <string name="title_bible_watch">BIBLE WATCH</string>
+    <string name="permission_desc">Through permissions, the app displays the clock on the home screen and operates smoothly.</string>
+
+    <!-- Main Screen -->
+    <string name="overlay_permission_title">Overlay Permission</string>
+    <string name="usage_access_permission_title">Usage Access Permission</string>
+    <string name="request_overlay_button_label">👉 Request Overlay Permission</string>
+    <string name="overlay_granted_label">Overlay Permission Granted</string>
+    <string name="request_usage_button_label">👉 Request Usage Access</string>
+    <string name="usage_granted_label">Usage Access Granted</string>
+    <string name="start_overlay_button">Start Overlay</string>
+    <string name="stop_overlay_button">Stop Overlay</string>
+    <string name="open_anim_settings_button">Optional: Turn Animation On/Off</string>
+    <string name="status_granted">✅ Granted</string>
+    <string name="status_needed">❌ Needed</string>
+
+    <!-- Animation Settings Screen -->
+    <string name="anim_settings_title">Turn Animation On/Off</string>
+    <string name="anim_settings_subtitle">Turn on only what you want \n— Save Battery</string>
+    <string name="switch_rays_fairy_bg">Rays, Fairy, Background</string>
+    <string name="switch_bible">Bible</string>
+    <string name="switch_clock">Clock</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Apply Selection</string>
+    
+</resources>
