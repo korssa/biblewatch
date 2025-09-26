@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jam Bible</string>
+    <string name="biblewatch_header">Sekarang adalah %1$s %2$s</string>
+    <string name="title_bible_watch">JAM BIBLE</string>
+    <string name="permission_desc">Melalui kebenaran, aplikasi memaparkan jam di skrin utama dan beroperasi dengan lancar.</string>
+
+    <!-- Skrin Utama -->
+    <string name="overlay_permission_title">Kebenaran Overlay</string>
+    <string name="usage_access_permission_title">Kebenaran Akses Penggunaan</string>
+    <string name="request_overlay_button_label">👉 Minta Kebenaran Overlay</string>
+    <string name="overlay_granted_label">Kebenaran Overlay Diberikan</string>
+    <string name="request_usage_button_label">👉 Minta Akses Penggunaan</string>
+    <string name="usage_granted_label">Akses Penggunaan Diberikan</string>
+    <string name="start_overlay_button">Mulai Overlay</string>
+    <string name="stop_overlay_button">Hentikan Overlay</string>
+    <string name="open_anim_settings_button">Pilihan: Hidup/Matikan Animasi</string>
+    <string name="status_granted">✅ Diberikan</string>
+    <string name="status_needed">❌ Diperlukan</string>
+
+    <!-- Skrin Tetapan Animasi -->
+    <string name="anim_settings_title">Hidup/Matikan Animasi</string>
+    <string name="anim_settings_subtitle">Hidupkan hanya yang anda mahu \n— Jimat Bateri</string>
+    <string name="switch_rays_fairy_bg">Sinar, Peri, Latar Belakang</string>
+    <string name="switch_bible">Bible</string>
+    <string name="switch_clock">Jam</string>
+    <string name="switch_images">Yesus</string>
+    <string name="apply_selection_button">Gunakan Pilihan</string>
+    
+</resources>

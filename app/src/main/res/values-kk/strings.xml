@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Қасиетті кітап сағаты</string>
+    <string name="biblewatch_header">Қазір %1$s %2$s</string>
+    <string name="title_bible_watch">ҚАСИЕТТІ КІТАП САҒАТЫ</string>
+    <string name="permission_desc">Рұқсаттар арқылы қолданба негізгі экранда сағатты көрсетеді және тегіс жұмыс істейді.</string>
+
+    <!-- Негізгі экран -->
+    <string name="overlay_permission_title">Қабаттасу рұқсаты</string>
+    <string name="usage_access_permission_title">Қолдануға кіру рұқсаты</string>
+    <string name="request_overlay_button_label">👉 Қабаттасу рұқсатын сұраңыз</string>
+    <string name="overlay_granted_label">Қабаттасу рұқсаты берілді</string>
+    <string name="request_usage_button_label">👉 Қолдануға кіруді сұраңыз</string>
+    <string name="usage_granted_label">Қолдануға кіру берілді</string>
+    <string name="start_overlay_button">Қабаттасуды бастаңыз</string>
+    <string name="stop_overlay_button">Қабаттасуды тоқтатыңыз</string>
+    <string name="open_anim_settings_button">Қосымша: Анимацияны қосыңыз/өшіріңіз</string>
+    <string name="status_granted">✅ Берілді</string>
+    <string name="status_needed">❌ Қажет</string>
+
+    <!-- Анимация параметрлері экраны -->
+    <string name="anim_settings_title">Анимацияны қосыңыз/өшіріңіз</string>
+    <string name="anim_settings_subtitle">Тек қалағанды қосыңыз \n— Батареяны үнемдеңіз</string>
+    <string name="switch_rays_fairy_bg">Сәулелер, Пері, Фон</string>
+    <string name="switch_bible">Қасиетті кітап</string>
+    <string name="switch_clock">Сағат</string>
+    <string name="switch_images">Иса</string>
+    <string name="apply_selection_button">Таңдауды қолданыңыз</string>
+    
+</resources>

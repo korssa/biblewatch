@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bible Watch</string>
+    <string name="biblewatch_header">지금은 %1$s %2$s 입니다</string>
+    <string name="title_bible_watch">BIBLE WATCH</string>
+    <string name="permission_desc">권한을 통해 앱이 홈 화면에 시계를 표시하고 원활하게 동작합니다.</string>
+
+    <!-- 메인 화면 -->
+    <string name="overlay_permission_title">오버레이 권한</string>
+    <string name="usage_access_permission_title">사용 기록 접근 권한</string>
+    <string name="request_overlay_button_label">👉 오버레이 권한 요청</string>
+    <string name="overlay_granted_label">오버레이 권한 허용됨</string>
+    <string name="request_usage_button_label">👉 사용 기록 접근 요청</string>
+    <string name="usage_granted_label">사용 기록 접근 허용됨</string>
+    <string name="start_overlay_button">오버레이 시작</string>
+    <string name="stop_overlay_button">오버레이 중지</string>
+    <string name="open_anim_settings_button">선택 사항: 애니메이션 켜기/끄기</string>
+    <string name="status_granted">✅ 허용됨</string>
+    <string name="status_needed">❌ 필요</string>
+
+    <!-- 애니메이션 설정 화면 -->
+    <string name="anim_settings_title">애니메이션 켜기/끄기</string>
+    <string name="anim_settings_subtitle">원하는 것만 켜세요 \n— 배터리 절약</string>
+    <string name="switch_rays_fairy_bg">광선, 요정, 이미지</string>
+    <string name="switch_bible">성경</string>
+    <string name="switch_clock">시계</string>
+    <string name="switch_images">예수</string>
+    <string name="apply_selection_button">선택 적용</string>
+    
+</resources>

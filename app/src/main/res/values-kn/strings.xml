@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಬೈಬಲ್ ವಾಚ್</string>
+    <string name="biblewatch_header">ಈಗ %1$s %2$s</string>
+    <string name="title_bible_watch">ಬೈಬಲ್ ವಾಚ್</string>
+    <string name="permission_desc">ಅನುಮತಿಗಳ ಮೂಲಕ, ಅಪ್ಲಿಕೇಶನ್ ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಲ್ಲಿ ಗಡಿಯಾಳವನ್ನು ಪ್ರದರ್ಶಿಸುತ್ತದೆ ಮತ್ತು ಸುಗಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸುತ್ತದೆ.</string>
+
+    <!-- ಮುಖ್ಯ ಸ್ಕ್ರೀನ್ -->
+    <string name="overlay_permission_title">ಓವರ್ಲೇ ಅನುಮತಿ</string>
+    <string name="usage_access_permission_title">ಬಳಕೆ ಪ್ರವೇಶ ಅನುಮತಿ</string>
+    <string name="request_overlay_button_label">👉 ಓವರ್ಲೇ ಅನುಮತಿಯನ್ನು ವಿನಂತಿಸಿ</string>
+    <string name="overlay_granted_label">ಓವರ್ಲೇ ಅನುಮತಿ ನೀಡಲಾಗಿದೆ</string>
+    <string name="request_usage_button_label">👉 ಬಳಕೆ ಪ್ರವೇಶವನ್ನು ವಿನಂತಿಸಿ</string>
+    <string name="usage_granted_label">ಬಳಕೆ ಪ್ರವೇಶ ನೀಡಲಾಗಿದೆ</string>
+    <string name="start_overlay_button">ಓವರ್ಲೇ ಪ್ರಾರಂಭಿಸಿ</string>
+    <string name="stop_overlay_button">ಓವರ್ಲೇ ನಿಲ್ಲಿಸಿ</string>
+    <string name="open_anim_settings_button">ಐಚ್ಛಿಕ: ಅನಿಮೇಶನ್ ಆನ್/ಆಫ್ ಮಾಡಿ</string>
+    <string name="status_granted">✅ ನೀಡಲಾಗಿದೆ</string>
+    <string name="status_needed">❌ ಅಗತ್ಯ</string>
+
+    <!-- ಅನಿಮೇಶನ್ ಸೆಟ್ಟಿಂಗ್‌ಗಳ ಸ್ಕ್ರೀನ್ -->
+    <string name="anim_settings_title">ಅನಿಮೇಶನ್ ಆನ್/ಆಫ್ ಮಾಡಿ</string>
+    <string name="anim_settings_subtitle">ನೀವು ಬಯಸಿದ್ದನ್ನು ಮಾತ್ರ ಆನ್ ಮಾಡಿ \n— ಬ್ಯಾಟರಿ ಉಳಿಸಿ</string>
+    <string name="switch_rays_fairy_bg">ಕಿರಣಗಳು, ಪರೀ, ಹಿನ್ನೆಲೆ</string>
+    <string name="switch_bible">ಬೈಬಲ್</string>
+    <string name="switch_clock">ಗಡಿಯಾಳ</string>
+    <string name="switch_images">ಯೇಸು</string>
+    <string name="apply_selection_button">ಆಯ್ಕೆಯನ್ನು ಅನ್ವಯಿಸಿ</string>
+    
+</resources>

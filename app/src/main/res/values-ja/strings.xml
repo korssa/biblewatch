@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">聖書時計</string>
+    <string name="biblewatch_header">今は %1$s %2$s です</string>
+    <string name="title_bible_watch">聖書時計</string>
+    <string name="permission_desc">権限を通じて、アプリはホーム画面に時計を表示し、スムーズに動作します。</string>
+
+    <!-- メイン画面 -->
+    <string name="overlay_permission_title">オーバーレイ権限</string>
+    <string name="usage_access_permission_title">使用アクセス権限</string>
+    <string name="request_overlay_button_label">👉 オーバーレイ権限をリクエスト</string>
+    <string name="overlay_granted_label">オーバーレイ権限が付与されました</string>
+    <string name="request_usage_button_label">👉 使用アクセスをリクエスト</string>
+    <string name="usage_granted_label">使用アクセスが付与されました</string>
+    <string name="start_overlay_button">オーバーレイを開始</string>
+    <string name="stop_overlay_button">オーバーレイを停止</string>
+    <string name="open_anim_settings_button">オプション: アニメーションをオン/オフ</string>
+    <string name="status_granted">✅ 付与されました</string>
+    <string name="status_needed">❌ 必要</string>
+
+    <!-- アニメーション設定画面 -->
+    <string name="anim_settings_title">アニメーションをオン/オフ</string>
+    <string name="anim_settings_subtitle">必要なものだけオンにしてください \n— バッテリーを節約</string>
+    <string name="switch_rays_fairy_bg">光線、妖精、背景</string>
+    <string name="switch_bible">聖書</string>
+    <string name="switch_clock">時計</string>
+    <string name="switch_images">イエス</string>
+    <string name="apply_selection_button">選択を適用</string>
+    
+</resources>

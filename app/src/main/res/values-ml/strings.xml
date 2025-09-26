@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ബൈബിൾ വാച്ച്</string>
+    <string name="biblewatch_header">ഇപ്പോൾ %1$s %2$s</string>
+    <string name="title_bible_watch">ബൈബിൾ വാച്ച്</string>
+    <string name="permission_desc">അനുമതികളിലൂടെ, ആപ്പ് ഹോം സ്ക്രീനിൽ ക്ലോക്ക് പ്രദർശിപ്പിക്കുകയും സുഗമമായി പ്രവർത്തിക്കുകയും ചെയ്യുന്നു.</string>
+
+    <!-- മെയിൻ സ്ക്രീൻ -->
+    <string name="overlay_permission_title">ഓവർലേ അനുമതി</string>
+    <string name="usage_access_permission_title">ഉപയോഗ പ്രവേശന അനുമതി</string>
+    <string name="request_overlay_button_label">👉 ഓവർലേ അനുമതി അഭ്യർത്ഥിക്കുക</string>
+    <string name="overlay_granted_label">ഓവർലേ അനുമതി നൽകി</string>
+    <string name="request_usage_button_label">👉 ഉപയോഗ പ്രവേശനം അഭ്യർത്ഥിക്കുക</string>
+    <string name="usage_granted_label">ഉപയോഗ പ്രവേശനം നൽകി</string>
+    <string name="start_overlay_button">ഓവർലേ ആരംഭിക്കുക</string>
+    <string name="stop_overlay_button">ഓവർലേ നിർത്തുക</string>
+    <string name="open_anim_settings_button">ഓപ്ഷണൽ: അനിമേഷൻ ഓൺ/ഓഫ് ചെയ്യുക</string>
+    <string name="status_granted">✅ നൽകി</string>
+    <string name="status_needed">❌ ആവശ്യമാണ്</string>
+
+    <!-- അനിമേഷൻ സെറ്റിംഗ്സ് സ്ക്രീൻ -->
+    <string name="anim_settings_title">അനിമേഷൻ ഓൺ/ഓഫ് ചെയ്യുക</string>
+    <string name="anim_settings_subtitle">നിങ്ങൾക്ക് ആവശ്യമുള്ളത് മാത്രം ഓൺ ചെയ്യുക \n— ബാറ്ററി സംരക്ഷിക്കുക</string>
+    <string name="switch_rays_fairy_bg">രശ്മികൾ, പരീ, പശ്ചാത്തലം</string>
+    <string name="switch_bible">ബൈബിൾ</string>
+    <string name="switch_clock">ക്ലോക്ക്</string>
+    <string name="switch_images">യേശു</string>
+    <string name="apply_selection_button">തിരഞ്ഞെടുക്കൽ പ്രയോഗിക്കുക</string>
+    
+</resources>

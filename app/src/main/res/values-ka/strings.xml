@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ბიბლიის საათი</string>
+    <string name="biblewatch_header">ახლა არის %1$s %2$s</string>
+    <string name="title_bible_watch">ბიბლიის საათი</string>
+    <string name="permission_desc">უფლებების მეშვეობით, აპი აჩვენებს საათს მთავარ ეკრანზე და მუშაობს უწყვეტად.</string>
+
+    <!-- მთავარი ეკრანი -->
+    <string name="overlay_permission_title">ოვერლეის უფლება</string>
+    <string name="usage_access_permission_title">გამოყენების წვდომის უფლება</string>
+    <string name="request_overlay_button_label">👉 მოითხოვეთ ოვერლეის უფლება</string>
+    <string name="overlay_granted_label">ოვერლეის უფლება მინიჭებულია</string>
+    <string name="request_usage_button_label">👉 მოითხოვეთ გამოყენების წვდომა</string>
+    <string name="usage_granted_label">გამოყენების წვდომა მინიჭებულია</string>
+    <string name="start_overlay_button">დაიწყეთ ოვერლეი</string>
+    <string name="stop_overlay_button">შეაჩერეთ ოვერლეი</string>
+    <string name="open_anim_settings_button">არჩევითი: ჩართეთ/გამორთეთ ანიმაცია</string>
+    <string name="status_granted">✅ მინიჭებულია</string>
+    <string name="status_needed">❌ საჭიროა</string>
+
+    <!-- ანიმაციის პარამეტრების ეკრანი -->
+    <string name="anim_settings_title">ჩართეთ/გამორთეთ ანიმაცია</string>
+    <string name="anim_settings_subtitle">ჩართეთ მხოლოდ ის, რაც გსურთ \n— დაზოგეთ ბატარეა</string>
+    <string name="switch_rays_fairy_bg">სხივები, ფერი, ფონი</string>
+    <string name="switch_bible">ბიბლია</string>
+    <string name="switch_clock">საათი</string>
+    <string name="switch_images">იესო</string>
+    <string name="apply_selection_button">გამოიყენეთ არჩევანი</string>
+    
+</resources>

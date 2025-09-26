@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Библийн Цаг</string>
+    <string name="biblewatch_header">Одоо %1$s %2$s байна</string>
+    <string name="title_bible_watch">БИБЛИЙН ЦАГ</string>
+    <string name="permission_desc">Зөвшөөрлөөр дамжуулан апп нь нүүр хуудсанд цагийг харуулж, зөөлөн ажиллана.</string>
+
+    <!-- Үндсэн дэлгэц -->
+    <string name="overlay_permission_title">Давхарга Зөвшөөрөл</string>
+    <string name="usage_access_permission_title">Хэрэглээний Нэвтрэх Зөвшөөрөл</string>
+    <string name="request_overlay_button_label">👉 Давхарга Зөвшөөрөл Хүсэх</string>
+    <string name="overlay_granted_label">Давхарга Зөвшөөрөл Өгөгдсөн</string>
+    <string name="request_usage_button_label">👉 Хэрэглээний Нэвтрэх Хүсэх</string>
+    <string name="usage_granted_label">Хэрэглээний Нэвтрэх Өгөгдсөн</string>
+    <string name="start_overlay_button">Давхарга Эхлүүлэх</string>
+    <string name="stop_overlay_button">Давхарга Зогсоох</string>
+    <string name="open_anim_settings_button">Сонголт: Анимацийг Асаах/Унтраах</string>
+    <string name="status_granted">✅ Өгөгдсөн</string>
+    <string name="status_needed">❌ Хэрэгтэй</string>
+
+    <!-- Анимацийн тохиргооны дэлгэц -->
+    <string name="anim_settings_title">Анимацийг Асаах/Унтраах</string>
+    <string name="anim_settings_subtitle">Зөвхөн хүссэнээ асаа \n— Батарей Хэмнэх</string>
+    <string name="switch_rays_fairy_bg">Туяа, Дуу, Дэвсгэр</string>
+    <string name="switch_bible">Библи</string>
+    <string name="switch_clock">Цаг</string>
+    <string name="switch_images">Есүс</string>
+    <string name="apply_selection_button">Сонголтыг Хэрэглэх</string>
+    
+</resources>

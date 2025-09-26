@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bībeles Pulkstenis</string>
+    <string name="biblewatch_header">Tagad ir %1$s %2$s</string>
+    <string name="title_bible_watch">BĪBELES PULKSTENIS</string>
+    <string name="permission_desc">Ar atļaujām programma parāda pulksteni sākuma ekrānā un darbojas vienmērīgi.</string>
+
+    <!-- Sākuma ekrāns -->
+    <string name="overlay_permission_title">Pārklājuma Atļauja</string>
+    <string name="usage_access_permission_title">Lietošanas Piekļuves Atļauja</string>
+    <string name="request_overlay_button_label">👉 Pieprasīt Pārklājuma Atļauju</string>
+    <string name="overlay_granted_label">Pārklājuma Atļauja Piešķirta</string>
+    <string name="request_usage_button_label">👉 Pieprasīt Lietošanas Piekļuvi</string>
+    <string name="usage_granted_label">Lietošanas Piekļuve Piešķirta</string>
+    <string name="start_overlay_button">Sākt Pārklājumu</string>
+    <string name="stop_overlay_button">Apturēt Pārklājumu</string>
+    <string name="open_anim_settings_button">Neobligāti: Ieslēgt/Izslēgt Animāciju</string>
+    <string name="status_granted">✅ Piešķirta</string>
+    <string name="status_needed">❌ Nepieciešama</string>
+
+    <!-- Animācijas iestatījumu ekrāns -->
+    <string name="anim_settings_title">Ieslēgt/Izslēgt Animāciju</string>
+    <string name="anim_settings_subtitle">Ieslēdziet tikai to, ko vēlaties \n— Taupiet Bateriju</string>
+    <string name="switch_rays_fairy_bg">Stari, Feja, Fons</string>
+    <string name="switch_bible">Bībele</string>
+    <string name="switch_clock">Pulkstenis</string>
+    <string name="switch_images">Jēzus</string>
+    <string name="apply_selection_button">Piemērot Izvēli</string>
+    
+</resources>

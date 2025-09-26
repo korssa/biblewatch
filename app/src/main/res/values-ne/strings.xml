@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">बाइबल घडी</string>
+    <string name="biblewatch_header">अहिले %1$s %2$s हो</string>
+    <string name="title_bible_watch">बाइबल घडी</string>
+    <string name="permission_desc">अनुमतिहरू मार्फत, एपले होम स्क्रिनमा घडी देखाउँछ र सहज रूपमा सञ्चालन गर्छ।</string>
+
+    <!-- मुख्य स्क्रिन -->
+    <string name="overlay_permission_title">ओभरले अनुमति</string>
+    <string name="usage_access_permission_title">प्रयोग पहुँच अनुमति</string>
+    <string name="request_overlay_button_label">👉 ओभरले अनुमति अनुरोध गर्नुहोस्</string>
+    <string name="overlay_granted_label">ओभरले अनुमति प्रदान गरियो</string>
+    <string name="request_usage_button_label">👉 प्रयोग पहुँच अनुरोध गर्नुहोस्</string>
+    <string name="usage_granted_label">प्रयोग पहुँच प्रदान गरियो</string>
+    <string name="start_overlay_button">ओभरले सुरु गर्नुहोस्</string>
+    <string name="stop_overlay_button">ओभरले रोक्नुहोस्</string>
+    <string name="open_anim_settings_button">वैकल्पिक: एनिमेसन अन/अफ गर्नुहोस्</string>
+    <string name="status_granted">✅ प्रदान गरियो</string>
+    <string name="status_needed">❌ आवश्यक</string>
+
+    <!-- एनिमेसन सेटिंग्स स्क्रिन -->
+    <string name="anim_settings_title">एनिमेसन अन/अफ गर्नुहोस्</string>
+    <string name="anim_settings_subtitle">मात्र जे चाहनुहुन्छ त्यो अन गर्नुहोस् \n— ब्याट्री बचत गर्नुहोस्</string>
+    <string name="switch_rays_fairy_bg">किरणहरू, परी, पृष्ठभूमि</string>
+    <string name="switch_bible">बाइबल</string>
+    <string name="switch_clock">घडी</string>
+    <string name="switch_images">येशू</string>
+    <string name="apply_selection_button">चयन लागू गर्नुहोस्</string>
+    
+</resources>

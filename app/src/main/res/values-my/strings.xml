@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">သမ္မာကျမ်းစာ နာရီ</string>
+    <string name="biblewatch_header">ယခု %1$s %2$s ဖြစ်သည်</string>
+    <string name="title_bible_watch">သမ္မာကျမ်းစာ နာရီ</string>
+    <string name="permission_desc">ခွင့်ပြုချက်များမှတစ်ဆင့် အက်ပ်သည် ပင်မစခရင်တွင် နာရီကို ပြသပြီး ချောမွေ့စွာ လည်ပတ်သည်။</string>
+
+    <!-- ပင်မစခရင် -->
+    <string name="overlay_permission_title">ထပ်ပိုင်းခွင့်ပြုချက်</string>
+    <string name="usage_access_permission_title">အသုံးပြုခွင့်ပြုချက်</string>
+    <string name="request_overlay_button_label">👉 ထပ်ပိုင်းခွင့်ပြုချက် တောင်းဆို</string>
+    <string name="overlay_granted_label">ထပ်ပိုင်းခွင့်ပြုချက် ပေးအပ်သည်</string>
+    <string name="request_usage_button_label">👉 အသုံးပြုခွင့် တောင်းဆို</string>
+    <string name="usage_granted_label">အသုံးပြုခွင့် ပေးအပ်သည်</string>
+    <string name="start_overlay_button">ထပ်ပိုင်း စတင်</string>
+    <string name="stop_overlay_button">ထပ်ပိုင်း ရပ်တန့်</string>
+    <string name="open_anim_settings_button">ရွေးချယ်နိုင်: အီမို ဖွင့်/ပိတ်</string>
+    <string name="status_granted">✅ ပေးအပ်သည်</string>
+    <string name="status_needed">❌ လိုအပ်သည်</string>
+
+    <!-- အီမို ဆက်တင်စခရင် -->
+    <string name="anim_settings_title">အီမို ဖွင့်/ပိတ်</string>
+    <string name="anim_settings_subtitle">သင်လိုချင်သည်ကိုသာ ဖွင့်ပါ \n— ဘက်ထရီ ချွေတာ</string>
+    <string name="switch_rays_fairy_bg">အလင်းရောင်များ၊ နတ်သမီး၊ နောက်ခံ</string>
+    <string name="switch_bible">သမ္မာကျမ်းစာ</string>
+    <string name="switch_clock">နာရီ</string>
+    <string name="switch_images">ယေရှု</string>
+    <string name="apply_selection_button">ရွေးချယ်မှု အသုံးပြု</string>
+    
+</resources>

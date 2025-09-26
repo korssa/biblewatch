@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">នាឡិកាព្រះគម្ពីរ</string>
+    <string name="biblewatch_header">ឥឡូវនេះជា %1$s %2$s</string>
+    <string name="title_bible_watch">នាឡិកាព្រះគម្ពីរ</string>
+    <string name="permission_desc">តាមរយៈការអនុញ្ញាត កម្មវិធីបង្ហាញនាឡិកានៅលើអេក្រង់ដើម និងដំណើរការយ៉ាងរលូន។</string>
+
+    <!-- អេក្រង់ចម្បង -->
+    <string name="overlay_permission_title">ការអនុញ្ញាតគ្របដណ្តប់</string>
+    <string name="usage_access_permission_title">ការអនុញ្ញាតចូលប្រើប្រាស់</string>
+    <string name="request_overlay_button_label">👉 ស្នើសុំការអនុញ្ញាតគ្របដណ្តប់</string>
+    <string name="overlay_granted_label">ការអនុញ្ញាតគ្របដណ្តប់ត្រូវបានផ្តល់</string>
+    <string name="request_usage_button_label">👉 ស្នើសុំចូលប្រើប្រាស់</string>
+    <string name="usage_granted_label">ចូលប្រើប្រាស់ត្រូវបានផ្តល់</string>
+    <string name="start_overlay_button">ចាប់ផ្តើមគ្របដណ្តប់</string>
+    <string name="stop_overlay_button">បញ្ឈប់គ្របដណ្តប់</string>
+    <string name="open_anim_settings_button">ជម្រើស: បើក/បិទចលនា</string>
+    <string name="status_granted">✅ ត្រូវបានផ្តល់</string>
+    <string name="status_needed">❌ ត្រូវការ</string>
+
+    <!-- អេក្រង់ការកំណត់ចលនា -->
+    <string name="anim_settings_title">បើក/បិទចលនា</string>
+    <string name="anim_settings_subtitle">បើកឞាមតែអ្វីដែលអ្នកចង់បាន \n— សន្សំថ្ម</string>
+    <string name="switch_rays_fairy_bg">ពន្លឺ, នាងហ្វេ, ផ្ទៃខាងក្រោយ</string>
+    <string name="switch_bible">ព្រះគម្ពីរ</string>
+    <string name="switch_clock">នាឡិកា</string>
+    <string name="switch_images">ព្រះយេស៊ូ</string>
+    <string name="apply_selection_button">អនុវត្តការជ្រើសរើស</string>
+    
+</resources>
