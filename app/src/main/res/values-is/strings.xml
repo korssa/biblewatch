@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblíu Klukka</string>
+    <string name="biblewatch_header">Nú er %1$s %2$s</string>
+    <string name="title_bible_watch">BIBLÍU KLUKKA</string>
+    <string name="permission_desc">Í gegnum heimildir sýnir appið klukkuna á heimaskjánum og virkar með góðu flæði.</string>
+
+    <!-- Heimaskjár -->
+    <string name="overlay_permission_title">Yfirlag Heimild</string>
+    <string name="usage_access_permission_title">Notkunaraðgangs Heimild</string>
+    <string name="request_overlay_button_label">👉 Óska eftir Yfirlag Heimild</string>
+    <string name="overlay_granted_label">Yfirlag Heimild Veitt</string>
+    <string name="request_usage_button_label">👉 Óska eftir Notkunaraðgang</string>
+    <string name="usage_granted_label">Notkunaraðgangur Veittur</string>
+    <string name="start_overlay_button">Hefja Yfirlag</string>
+    <string name="stop_overlay_button">Stöðva Yfirlag</string>
+    <string name="open_anim_settings_button">Valkvætt: Kveikja/Slökkva á Hreyfimyndum</string>
+    <string name="status_granted">✅ Veitt</string>
+    <string name="status_needed">❌ Nauðsynlegt</string>
+
+    <!-- Hreyfimynda Stillingar Skjár -->
+    <string name="anim_settings_title">Kveikja/Slökkva á Hreyfimyndum</string>
+    <string name="anim_settings_subtitle">Kveiktu aðeins á því sem þú vilt \n— Sparaðu Rafhlöðu</string>
+    <string name="switch_rays_fairy_bg">Geislar, Álfur, Bakgrunnur</string>
+    <string name="switch_bible">Biblía</string>
+    <string name="switch_clock">Klukka</string>
+    <string name="switch_images">Jesús</string>
+    <string name="apply_selection_button">Nota Val</string>
+    
+</resources>

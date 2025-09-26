@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ساعت کتاب مقدس</string>
+    <string name="biblewatch_header">اکنون %1$s %2$s است</string>
+    <string name="title_bible_watch">ساعت کتاب مقدس</string>
+    <string name="permission_desc">از طریق مجوزها، برنامه ساعت را روی صفحه اصلی نمایش می‌دهد و به طور روان کار می‌کند.</string>
+
+    <!-- صفحه اصلی -->
+    <string name="overlay_permission_title">مجوز هم‌پوشانی</string>
+    <string name="usage_access_permission_title">مجوز دسترسی به استفاده</string>
+    <string name="request_overlay_button_label">👉 درخواست مجوز هم‌پوشانی</string>
+    <string name="overlay_granted_label">مجوز هم‌پوشانی اعطا شد</string>
+    <string name="request_usage_button_label">👉 درخواست دسترسی به استفاده</string>
+    <string name="usage_granted_label">دسترسی به استفاده اعطا شد</string>
+    <string name="start_overlay_button">شروع هم‌پوشانی</string>
+    <string name="stop_overlay_button">توقف هم‌پوشانی</string>
+    <string name="open_anim_settings_button">اختیاری: روشن/خاموش کردن انیمیشن</string>
+    <string name="status_granted">✅ اعطا شد</string>
+    <string name="status_needed">❌ مورد نیاز</string>
+
+    <!-- صفحه تنظیمات انیمیشن -->
+    <string name="anim_settings_title">روشن/خاموش کردن انیمیشن</string>
+    <string name="anim_settings_subtitle">فقط آنچه را می‌خواهید روشن کنید \n— صرفه جویی در باتری</string>
+    <string name="switch_rays_fairy_bg">پرتوها، پری، پس‌زمینه</string>
+    <string name="switch_bible">کتاب مقدس</string>
+    <string name="switch_clock">ساعت</string>
+    <string name="switch_images">عیسی</string>
+    <string name="apply_selection_button">اعمال انتخاب</string>
+    
+</resources>

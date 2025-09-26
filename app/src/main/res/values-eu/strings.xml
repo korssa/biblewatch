@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblio Erlojua</string>
+    <string name="biblewatch_header">Orain %1$s %2$s da</string>
+    <string name="title_bible_watch">BIBLIO ERLOJUA</string>
+    <string name="permission_desc">Baimenen bidez, aplikazioak erlojua hasierako pantailan erakusten du eta modu leunean funtzionatzen du.</string>
+
+    <!-- Pantaila Nagusia -->
+    <string name="overlay_permission_title">Gainjartze Baimena</string>
+    <string name="usage_access_permission_title">Erabilera Sarbide Baimena</string>
+    <string name="request_overlay_button_label">👉 Eskatu Gainjartze Baimena</string>
+    <string name="overlay_granted_label">Gainjartze Baimena Eman da</string>
+    <string name="request_usage_button_label">👉 Eskatu Erabilera Sarbidea</string>
+    <string name="usage_granted_label">Erabilera Sarbidea Eman da</string>
+    <string name="start_overlay_button">Hasi Gainjartzea</string>
+    <string name="stop_overlay_button">Gelditu Gainjartzea</string>
+    <string name="open_anim_settings_button">Aukerakoa: Aktibatu/Desaktibatu Animazioa</string>
+    <string name="status_granted">✅ Eman da</string>
+    <string name="status_needed">❌ Beharrezkoa</string>
+
+    <!-- Animazio Ezarpenak Pantaila -->
+    <string name="anim_settings_title">Aktibatu/Desaktibatu Animazioa</string>
+    <string name="anim_settings_subtitle">Aktibatu nahi duzuna bakarrik \n— Aurrezteko Bateria</string>
+    <string name="switch_rays_fairy_bg">Izpiak, Iparraldeko, Atzeko Planoa</string>
+    <string name="switch_bible">Biblia</string>
+    <string name="switch_clock">Erlojua</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Aplikatu Hautapena</string>
+    
+</resources>

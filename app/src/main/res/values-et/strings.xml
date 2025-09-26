@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Piibli Kell</string>
+    <string name="biblewatch_header">Nüüd on %1$s %2$s</string>
+    <string name="title_bible_watch">PIIBLI KELL</string>
+    <string name="permission_desc">Lubade kaudu kuvab rakendus kella avakuval ja töötab sujuvalt.</string>
+
+    <!-- Peamenüü -->
+    <string name="overlay_permission_title">Ülekatte Luba</string>
+    <string name="usage_access_permission_title">Kasutuse Juurdepääsu Luba</string>
+    <string name="request_overlay_button_label">👉 Taotle Ülekatte Lubu</string>
+    <string name="overlay_granted_label">Ülekatte Luba Antud</string>
+    <string name="request_usage_button_label">👉 Taotle Kasutuse Juurdepääsu</string>
+    <string name="usage_granted_label">Kasutuse Juurdepääs Antud</string>
+    <string name="start_overlay_button">Alusta Ülekatet</string>
+    <string name="stop_overlay_button">Peata Ülekate</string>
+    <string name="open_anim_settings_button">Valikuline: Lülita Animatsioon Sisse/Välja</string>
+    <string name="status_granted">✅ Antud</string>
+    <string name="status_needed">❌ Vajalik</string>
+
+    <!-- Animatsiooni Seaded Ekraan -->
+    <string name="anim_settings_title">Lülita Animatsioon Sisse/Välja</string>
+    <string name="anim_settings_subtitle">Lülita sisse ainult see, mida soovid \n— Säästa Aku</string>
+    <string name="switch_rays_fairy_bg">Kiired, Haldjas, Taust</string>
+    <string name="switch_bible">Piibel</string>
+    <string name="switch_clock">Kell</string>
+    <string name="switch_images">Jeesus</string>
+    <string name="apply_selection_button">Rakenda Valik</string>
+    
+</resources>

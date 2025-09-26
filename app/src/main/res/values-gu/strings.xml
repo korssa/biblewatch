@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">બાઇબલ વૉચ</string>
+    <string name="biblewatch_header">હવે %1$s %2$s છે</string>
+    <string name="title_bible_watch">બાઇબલ વૉચ</string>
+    <string name="permission_desc">પરવાનગીઓ દ્વારા, એપ હોમ સ્ક્રીન પર ઘડિયાળ દર્શાવે છે અને સરળતાથી કાર્ય કરે છે.</string>
+
+    <!-- મુખ્ય સ્ક્રીન -->
+    <string name="overlay_permission_title">ઓવરલે પરવાનગી</string>
+    <string name="usage_access_permission_title">વપરાશ પ્રવેશ પરવાનગી</string>
+    <string name="request_overlay_button_label">👉 ઓવરલે પરવાનગી માટે વિનંતી કરો</string>
+    <string name="overlay_granted_label">ઓવરલે પરવાનગી આપવામાં આવી</string>
+    <string name="request_usage_button_label">👉 વપરાશ પ્રવેશ માટે વિનંતી કરો</string>
+    <string name="usage_granted_label">વપરાશ પ્રવેશ આપવામાં આવ્યો</string>
+    <string name="start_overlay_button">ઓવરલે શરૂ કરો</string>
+    <string name="stop_overlay_button">ઓવરલે બંધ કરો</string>
+    <string name="open_anim_settings_button">વૈકલ્પિક: એનિમેશન ચાલુ/બંધ કરો</string>
+    <string name="status_granted">✅ આપવામાં આવ્યું</string>
+    <string name="status_needed">❌ જરૂરી</string>
+
+    <!-- એનિમેશન સેટિંગ્સ સ્ક્રીન -->
+    <string name="anim_settings_title">એનિમેશન ચાલુ/બંધ કરો</string>
+    <string name="anim_settings_subtitle">માત્ર જે ઇચ્છો તે ચાલુ કરો \n— બેટરી બચાવો</string>
+    <string name="switch_rays_fairy_bg">કિરણો, પરી, બેકગ્રાઉન્ડ</string>
+    <string name="switch_bible">બાઇબલ</string>
+    <string name="switch_clock">ઘડિયાળ</string>
+    <string name="switch_images">જીસસ</string>
+    <string name="apply_selection_button">પસંદગી લાગુ કરો</string>
+    
+</resources>

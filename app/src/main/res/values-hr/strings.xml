@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblija Sat</string>
+    <string name="biblewatch_header">Sada je %1$s %2$s</string>
+    <string name="title_bible_watch">BIBLIJA SAT</string>
+    <string name="permission_desc">Kroz dozvole, aplikacija prikazuje sat na početnom ekranu i radi glatko.</string>
+
+    <!-- Glavni ekran -->
+    <string name="overlay_permission_title">Dozvola za preklapanje</string>
+    <string name="usage_access_permission_title">Dozvola za pristup upotrebi</string>
+    <string name="request_overlay_button_label">👉 Zatraži dozvolu za preklapanje</string>
+    <string name="overlay_granted_label">Dozvola za preklapanje odobrena</string>
+    <string name="request_usage_button_label">👉 Zatraži pristup upotrebi</string>
+    <string name="usage_granted_label">Pristup upotrebi odobren</string>
+    <string name="start_overlay_button">Pokreni preklapanje</string>
+    <string name="stop_overlay_button">Zaustavi preklapanje</string>
+    <string name="open_anim_settings_button">Opcionalno: Uključi/Isključi animaciju</string>
+    <string name="status_granted">✅ Odobreno</string>
+    <string name="status_needed">❌ Potrebno</string>
+
+    <!-- Ekran postavki animacije -->
+    <string name="anim_settings_title">Uključi/Isključi animaciju</string>
+    <string name="anim_settings_subtitle">Uključite samo ono što želite \n— Štedite bateriju</string>
+    <string name="switch_rays_fairy_bg">Zrake, Vila, Pozadina</string>
+    <string name="switch_bible">Biblija</string>
+    <string name="switch_clock">Sat</string>
+    <string name="switch_images">Isus</string>
+    <string name="apply_selection_button">Primijeni odabir</string>
+    
+</resources>

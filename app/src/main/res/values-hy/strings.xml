@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Սուրբ Գրքի Ժամացույց</string>
+    <string name="biblewatch_header">Հիմա %1$s %2$s է</string>
+    <string name="title_bible_watch">ՍՈՒՐԲ ԳՐՔԻ ԺԱՄԱՑՈՒՅՑ</string>
+    <string name="permission_desc">Թույլտվությունների միջոցով հավելվածը ցուցադրում է ժամացույցը գլխավոր էկրանին և աշխատում է հարթ.</string>
+
+    <!-- Հիմնական էկրան -->
+    <string name="overlay_permission_title">Վերածածկման Թույլտվություն</string>
+    <string name="usage_access_permission_title">Օգտագործման Մուտքի Թույլտվություն</string>
+    <string name="request_overlay_button_label">👉 Հայցիր Վերածածկման Թույլտվություն</string>
+    <string name="overlay_granted_label">Վերածածկման Թույլտվություն Տրված է</string>
+    <string name="request_usage_button_label">👉 Հայցիր Օգտագործման Մուտք</string>
+    <string name="usage_granted_label">Օգտագործման Մուտք Տրված է</string>
+    <string name="start_overlay_button">Սկսիր Վերածածկումը</string>
+    <string name="stop_overlay_button">Դադարեցրու Վերածածկումը</string>
+    <string name="open_anim_settings_button">Ընտրովի: Միացրու/Անջատիր Անիմացիան</string>
+    <string name="status_granted">✅ Տրված է</string>
+    <string name="status_needed">❌ Անհրաժեշտ է</string>
+
+    <!-- Անիմացիայի Կարգավորումների Էկրան -->
+    <string name="anim_settings_title">Միացրու/Անջատիր Անիմացիան</string>
+    <string name="anim_settings_subtitle">Միացրու միայն այն, ինչ ուզում ես \n— Խնայիր Մարտկոցը</string>
+    <string name="switch_rays_fairy_bg">Ճառագայթներ, Փերի, Ֆոն</string>
+    <string name="switch_bible">Սուրբ Գիրք</string>
+    <string name="switch_clock">Ժամացույց</string>
+    <string name="switch_images">Հիսուս</string>
+    <string name="apply_selection_button">Կիրառիր Ընտրությունը</string>
+    
+</resources>

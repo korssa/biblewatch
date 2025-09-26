@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Raamatun Kello</string>
+    <string name="biblewatch_header">Nyt on %1$s %2$s</string>
+    <string name="title_bible_watch">RAAMATUN KELLO</string>
+    <string name="permission_desc">Käyttölupien kautta sovellus näyttää kellon aloitusnäytössä ja toimii sujuvasti.</string>
+
+    <!-- Päänäyttö -->
+    <string name="overlay_permission_title">Peittolupa</string>
+    <string name="usage_access_permission_title">Käyttöoikeuslupa</string>
+    <string name="request_overlay_button_label">👉 Pyydä Peittolupa</string>
+    <string name="overlay_granted_label">Peittolupa Myönnetty</string>
+    <string name="request_usage_button_label">👉 Pyydä Käyttöoikeus</string>
+    <string name="usage_granted_label">Käyttöoikeus Myönnetty</string>
+    <string name="start_overlay_button">Aloita Peitto</string>
+    <string name="stop_overlay_button">Pysäytä Peitto</string>
+    <string name="open_anim_settings_button">Valinnainen: Käynnistä/Pysäytä Animaatio</string>
+    <string name="status_granted">✅ Myönnetty</string>
+    <string name="status_needed">❌ Tarvitaan</string>
+
+    <!-- Animaatioasetukset Näyttö -->
+    <string name="anim_settings_title">Käynnistä/Pysäytä Animaatio</string>
+    <string name="anim_settings_subtitle">Käynnistä vain mitä haluat \n— Säästä Akku</string>
+    <string name="switch_rays_fairy_bg">Säteet, Keiju, Tausta</string>
+    <string name="switch_bible">Raamattu</string>
+    <string name="switch_clock">Kello</string>
+    <string name="switch_images">Jeesus</string>
+    <string name="apply_selection_button">Käytä Valinta</string>
+    
+</resources>

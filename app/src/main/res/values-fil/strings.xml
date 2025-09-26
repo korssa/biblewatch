@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Relo ng Bibliya</string>
+    <string name="biblewatch_header">Ngayon ay %1$s %2$s</string>
+    <string name="title_bible_watch">RELO NG BIBLIYA</string>
+    <string name="permission_desc">Sa pamamagitan ng mga pahintulot, ang app ay nagpapakita ng relo sa home screen at gumagana nang maayos.</string>
+
+    <!-- Main Screen -->
+    <string name="overlay_permission_title">Pahintulot sa Overlay</string>
+    <string name="usage_access_permission_title">Pahintulot sa Pag-access sa Paggamit</string>
+    <string name="request_overlay_button_label">👉 Humiling ng Pahintulot sa Overlay</string>
+    <string name="overlay_granted_label">Pahintulot sa Overlay ay Ibinigay</string>
+    <string name="request_usage_button_label">👉 Humiling ng Pag-access sa Paggamit</string>
+    <string name="usage_granted_label">Pag-access sa Paggamit ay Ibinigay</string>
+    <string name="start_overlay_button">Simulan ang Overlay</string>
+    <string name="stop_overlay_button">Itigil ang Overlay</string>
+    <string name="open_anim_settings_button">Opsyonal: I-on/I-off ang Animation</string>
+    <string name="status_granted">✅ Ibinigay</string>
+    <string name="status_needed">❌ Kailangan</string>
+
+    <!-- Animation Settings Screen -->
+    <string name="anim_settings_title">I-on/I-off ang Animation</string>
+    <string name="anim_settings_subtitle">I-on lamang ang gusto mo \n— Magtipid ng Baterya</string>
+    <string name="switch_rays_fairy_bg">Mga Sining, Engkanto, Background</string>
+    <string name="switch_bible">Bibliya</string>
+    <string name="switch_clock">Relo</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Ilapat ang Pagpili</string>
+    
+</resources>

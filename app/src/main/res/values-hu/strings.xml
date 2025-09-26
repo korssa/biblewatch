@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Biblia Óra</string>
+    <string name="biblewatch_header">Most %1$s %2$s van</string>
+    <string name="title_bible_watch">BIBLIA ÓRA</string>
+    <string name="permission_desc">Engedélyeken keresztül az alkalmazás megjeleníti az órát a kezdőképernyőn és zökkenőmentesen működik.</string>
+
+    <!-- Főképernyő -->
+    <string name="overlay_permission_title">Átfedési Engedély</string>
+    <string name="usage_access_permission_title">Használati Hozzáférési Engedély</string>
+    <string name="request_overlay_button_label">👉 Kérj Átfedési Engedélyt</string>
+    <string name="overlay_granted_label">Átfedési Engedély Megadva</string>
+    <string name="request_usage_button_label">👉 Kérj Használati Hozzáférést</string>
+    <string name="usage_granted_label">Használati Hozzáférés Megadva</string>
+    <string name="start_overlay_button">Indítsd az Átfedést</string>
+    <string name="stop_overlay_button">Állítsd le az Átfedést</string>
+    <string name="open_anim_settings_button">Opcionális: Kapcsold Be/Ki az Animációt</string>
+    <string name="status_granted">✅ Megadva</string>
+    <string name="status_needed">❌ Szükséges</string>
+
+    <!-- Animáció Beállítások Képernyő -->
+    <string name="anim_settings_title">Kapcsold Be/Ki az Animációt</string>
+    <string name="anim_settings_subtitle">Kapcsold be csak amit szeretnél \n— Takarékoskodj az Akkumulátorral</string>
+    <string name="switch_rays_fairy_bg">Sugarak, Tündér, Háttér</string>
+    <string name="switch_bible">Biblia</string>
+    <string name="switch_clock">Óra</string>
+    <string name="switch_images">Jézus</string>
+    <string name="apply_selection_button">Alkalmazd a Kiválasztást</string>
+    
+</resources>

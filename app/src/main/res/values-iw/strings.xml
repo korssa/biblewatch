@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">שעון התנ"ך</string>
+    <string name="biblewatch_header">עכשיו %1$s %2$s</string>
+    <string name="title_bible_watch">שעון התנ"ך</string>
+    <string name="permission_desc">באמצעות הרשאות, האפליקציה מציגה את השעון על מסך הבית ופועלת בצורה חלקה.</string>
+
+    <!-- מסך ראשי -->
+    <string name="overlay_permission_title">הרשאת שכבת-על</string>
+    <string name="usage_access_permission_title">הרשאת גישה לשימוש</string>
+    <string name="request_overlay_button_label">👉 בקש הרשאת שכבת-על</string>
+    <string name="overlay_granted_label">הרשאת שכבת-על ניתנה</string>
+    <string name="request_usage_button_label">👉 בקש גישה לשימוש</string>
+    <string name="usage_granted_label">גישה לשימוש ניתנה</string>
+    <string name="start_overlay_button">התחל שכבת-על</string>
+    <string name="stop_overlay_button">עצור שכבת-על</string>
+    <string name="open_anim_settings_button">אופציונלי: הפעל/כבה אנימציה</string>
+    <string name="status_granted">✅ ניתן</string>
+    <string name="status_needed">❌ נדרש</string>
+
+    <!-- מסך הגדרות אנימציה -->
+    <string name="anim_settings_title">הפעל/כבה אנימציה</string>
+    <string name="anim_settings_subtitle">הפעל רק מה שאתה רוצה \n— חסוך סוללה</string>
+    <string name="switch_rays_fairy_bg">קרניים, פיה, רקע</string>
+    <string name="switch_bible">התנ"ך</string>
+    <string name="switch_clock">שעון</string>
+    <string name="switch_images">ישוע</string>
+    <string name="apply_selection_button">החל בחירה</string>
+    
+</resources>
