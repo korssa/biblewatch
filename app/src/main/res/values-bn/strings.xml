@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">বাইবেল ওয়াচ</string>
+    <string name="biblewatch_header">এখন %1$s %2$s</string>
+    <string name="title_bible_watch">বাইবেল ওয়াচ</string>
+    <string name="permission_desc">অনুমতির মাধ্যমে অ্যাপটি হোম স্ক্রিনে ঘড়ি প্রদর্শন করে এবং মসৃণভাবে কাজ করে।</string>
+
+    <!-- মূল স্ক্রিন -->
+    <string name="overlay_permission_title">ওভারলে অনুমতি</string>
+    <string name="usage_access_permission_title">ব্যবহার অ্যাক্সেস অনুমতি</string>
+    <string name="request_overlay_button_label">👉 ওভারলে অনুমতি অনুরোধ করুন</string>
+    <string name="overlay_granted_label">ওভারলে অনুমতি প্রদান করা হয়েছে</string>
+    <string name="request_usage_button_label">👉 ব্যবহার অ্যাক্সেস অনুরোধ করুন</string>
+    <string name="usage_granted_label">ব্যবহার অ্যাক্সেস প্রদান করা হয়েছে</string>
+    <string name="start_overlay_button">ওভারলে শুরু করুন</string>
+    <string name="stop_overlay_button">ওভারলে বন্ধ করুন</string>
+    <string name="open_anim_settings_button">ঐচ্ছিক: অ্যানিমেশন চালু/বন্ধ করুন</string>
+    <string name="status_granted">✅ প্রদান করা হয়েছে</string>
+    <string name="status_needed">❌ প্রয়োজন</string>
+
+    <!-- অ্যানিমেশন সেটিংস স্ক্রিন -->
+    <string name="anim_settings_title">অ্যানিমেশন চালু/বন্ধ করুন</string>
+    <string name="anim_settings_subtitle">শুধু যা চান তা চালু করুন \n— ব্যাটারি সাশ্রয় করুন</string>
+    <string name="switch_rays_fairy_bg">রশ্মি, পরী, পটভূমি</string>
+    <string name="switch_bible">বাইবেল</string>
+    <string name="switch_clock">ঘড়ি</string>
+    <string name="switch_images">যীশু</string>
+    <string name="apply_selection_button">নির্বাচন প্রয়োগ করুন</string>
+    
+</resources>

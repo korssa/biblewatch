@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Библейски Час</string>
+    <string name="biblewatch_header">Сега е %1$s %2$s</string>
+    <string name="title_bible_watch">БИБЛЕЙСКИ ЧАС</string>
+    <string name="permission_desc">Чрез разрешенията приложението показва часовника на началния екран и работи гладко.</string>
+
+    <!-- Начален екран -->
+    <string name="overlay_permission_title">Разрешение за наслагване</string>
+    <string name="usage_access_permission_title">Разрешение за достъп до използване</string>
+    <string name="request_overlay_button_label">👉 Заяви разрешение за наслагване</string>
+    <string name="overlay_granted_label">Разрешението за наслагване е предоставено</string>
+    <string name="request_usage_button_label">👉 Заяви достъп до използване</string>
+    <string name="usage_granted_label">Достъпът до използване е предоставен</string>
+    <string name="start_overlay_button">Стартирай наслагване</string>
+    <string name="stop_overlay_button">Спри наслагване</string>
+    <string name="open_anim_settings_button">По избор: Включи/Изключи анимация</string>
+    <string name="status_granted">✅ Предоставено</string>
+    <string name="status_needed">❌ Нужно</string>
+
+    <!-- Екран за настройки на анимацията -->
+    <string name="anim_settings_title">Включи/Изключи анимация</string>
+    <string name="anim_settings_subtitle">Включвай само това, което искаш \n— Пести батерия</string>
+    <string name="switch_rays_fairy_bg">Лъчи, Фея, Фон</string>
+    <string name="switch_bible">Библия</string>
+    <string name="switch_clock">Часовник</string>
+    <string name="switch_images">Исус</string>
+    <string name="apply_selection_button">Приложи избор</string>
+    
+</resources>

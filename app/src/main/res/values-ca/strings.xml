@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Rellotge Bíblic</string>
+    <string name="biblewatch_header">Ara és %1$s %2$s</string>
+    <string name="title_bible_watch">RELLOTGE BÍBLIC</string>
+    <string name="permission_desc">Mitjançant permisos, l\'app mostra el rellotge a la pantalla d\'inici i funciona sense problemes.</string>
+
+    <!-- Pantalla principal -->
+    <string name="overlay_permission_title">Permís de superposició</string>
+    <string name="usage_access_permission_title">Permís d\'accés a l\'ús</string>
+    <string name="request_overlay_button_label">👉 Sol·licita permís de superposició</string>
+    <string name="overlay_granted_label">Permís de superposició concedit</string>
+    <string name="request_usage_button_label">👉 Sol·licita accés a l\'ús</string>
+    <string name="usage_granted_label">Accés a l\'ús concedit</string>
+    <string name="start_overlay_button">Inicia superposició</string>
+    <string name="stop_overlay_button">Atura superposició</string>
+    <string name="open_anim_settings_button">Opcional: Activa/Desactiva animació</string>
+    <string name="status_granted">✅ Concedit</string>
+    <string name="status_needed">❌ Necessari</string>
+
+    <!-- Pantalla de configuració d\'animació -->
+    <string name="anim_settings_title">Activa/Desactiva animació</string>
+    <string name="anim_settings_subtitle">Activa només el que vulguis \n— Estalvia bateria</string>
+    <string name="switch_rays_fairy_bg">Raigs, Fada, Fons</string>
+    <string name="switch_bible">Bíblia</string>
+    <string name="switch_clock">Rellotge</string>
+    <string name="switch_images">Jesús</string>
+    <string name="apply_selection_button">Aplica selecció</string>
+    
+</resources>

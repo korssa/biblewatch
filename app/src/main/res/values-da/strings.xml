@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bibel Ur</string>
+    <string name="biblewatch_header">Nu er det %1$s %2$s</string>
+    <string name="title_bible_watch">BIBEL UR</string>
+    <string name="permission_desc">Gennem tilladelser viser appen uret på startskærmen og fungerer problemfrit.</string>
+
+    <!-- Hovedskærm -->
+    <string name="overlay_permission_title">Overlay Tilladelse</string>
+    <string name="usage_access_permission_title">Brug Adgang Tilladelse</string>
+    <string name="request_overlay_button_label">👉 Anmod om Overlay Tilladelse</string>
+    <string name="overlay_granted_label">Overlay Tilladelse Tildelt</string>
+    <string name="request_usage_button_label">👉 Anmod om Brug Adgang</string>
+    <string name="usage_granted_label">Brug Adgang Tildelt</string>
+    <string name="start_overlay_button">Start Overlay</string>
+    <string name="stop_overlay_button">Stop Overlay</string>
+    <string name="open_anim_settings_button">Valgfrit: Tænd/Sluk Animation</string>
+    <string name="status_granted">✅ Tildelt</string>
+    <string name="status_needed">❌ Nødvendig</string>
+
+    <!-- Animation Indstillinger Skærm -->
+    <string name="anim_settings_title">Tænd/Sluk Animation</string>
+    <string name="anim_settings_subtitle">Tænd kun det, du vil have \n— Spar på Batteriet</string>
+    <string name="switch_rays_fairy_bg">Stråler, Fe, Baggrund</string>
+    <string name="switch_bible">Bibel</string>
+    <string name="switch_clock">Ur</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Anvend Valg</string>
+    
+</resources>

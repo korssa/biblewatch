@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Біблія Час</string>
+    <string name="biblewatch_header">Зараз %1$s %2$s</string>
+    <string name="title_bible_watch">БІБЛІЯ ЧАС</string>
+    <string name="permission_desc">Праз дазволы прыкладанне адлюстроўвае гадзіннік на галоўным экране і працуе гладка.</string>
+
+    <!-- Галоўны экран -->
+    <string name="overlay_permission_title">Дазвол на накладку</string>
+    <string name="usage_access_permission_title">Дазвол на доступ да выкарыстання</string>
+    <string name="request_overlay_button_label">👉 Запытаць дазвол на накладку</string>
+    <string name="overlay_granted_label">Дазвол на накладку прадастаўлены</string>
+    <string name="request_usage_button_label">👉 Запытаць доступ да выкарыстання</string>
+    <string name="usage_granted_label">Доступ да выкарыстання прадастаўлены</string>
+    <string name="start_overlay_button">Пачынаць накладку</string>
+    <string name="stop_overlay_button">Спыніць накладку</string>
+    <string name="open_anim_settings_button">Неабавязкова: Уключыць/Выключыць анімацыю</string>
+    <string name="status_granted">✅ Прадастаўлены</string>
+    <string name="status_needed">❌ Патрэбны</string>
+
+    <!-- Экран налад анімацыі -->
+    <string name="anim_settings_title">Уключыць/Выключыць анімацыю</string>
+    <string name="anim_settings_subtitle">Уключайце толькі тое, што хочаце \n— Эканомце батарэю</string>
+    <string name="switch_rays_fairy_bg">Прамяні, Фея, Фон</string>
+    <string name="switch_bible">Біблія</string>
+    <string name="switch_clock">Гадзіннік</string>
+    <string name="switch_images">Ісус</string>
+    <string name="apply_selection_button">Прымяніць выбар</string>
+    
+</resources>
