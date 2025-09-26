@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ਬਾਈਬਲ ਵਾਚ</string>
+    <string name="biblewatch_header">ਹੁਣ %1$s %2$s ਹੈ</string>
+    <string name="title_bible_watch">ਬਾਈਬਲ ਵਾਚ</string>
+    <string name="permission_desc">ਅਨੁਮਤੀਆਂ ਦੁਆਰਾ ਐਪ ਸਟਾਰਟਸਕ੍ਰੀਨ ਉੱਤੇ ਘੜੀ ਦਿਖਾਉਂਦੀ ਹੈ ਅਤੇ ਨਿਰੰਤਰ ਕੰਮ ਕਰਦੀ ਹੈ।</string>
+
+    <!-- ਮੁੱਖ ਸਕ੍ਰੀਨ -->
+    <string name="overlay_permission_title">ਓਵਰਲੇ ਅਨੁਮਤੀ</string>
+    <string name="usage_access_permission_title">ਵਰਤੋਂ ਪਹੁੰਚ ਅਨੁਮਤੀ</string>
+    <string name="request_overlay_button_label">👉 ਓਵਰਲੇ ਅਨੁਮਤੀ ਦੀ ਮੰਗ ਕਰੋ</string>
+    <string name="overlay_granted_label">ਓਵਰਲੇ ਅਨੁਮਤੀ ਦਿੱਤੀ ਗਈ</string>
+    <string name="request_usage_button_label">👉 ਵਰਤੋਂ ਪਹੁੰਚ ਦੀ ਮੰਗ ਕਰੋ</string>
+    <string name="usage_granted_label">ਵਰਤੋਂ ਪਹੁੰਚ ਦਿੱਤੀ ਗਈ</string>
+    <string name="start_overlay_button">ਓਵਰਲੇ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="stop_overlay_button">ਓਵਰਲੇ ਰੋਕੋ</string>
+    <string name="open_anim_settings_button">ਵਿਕਲਪਿਕ: ਐਨੀਮੇਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ</string>
+    <string name="status_granted">✅ ਦਿੱਤੀ ਗਈ</string>
+    <string name="status_needed">❌ ਲੋੜੀਂਦੀ</string>
+
+    <!-- ਐਨੀਮੇਸ਼ਨ ਸੈਟਿੰਗਜ਼ ਸਕ੍ਰੀਨ -->
+    <string name="anim_settings_title">ਐਨੀਮੇਸ਼ਨ ਚਾਲੂ/ਬੰਦ ਕਰੋ</string>
+    <string name="anim_settings_subtitle">ਸਿਰਫ਼ ਉਹੀ ਚਾਲੂ ਕਰੋ ਜੋ ਤੁਸੀਂ ਚਾਹੁੰਦੇ ਹੋ \n— ਬੈਟਰੀ ਬਚਾਓ</string>
+    <string name="switch_rays_fairy_bg">ਕਿਰਣਾਂ, ਪਰੀ, ਬੈਕਗ੍ਰਾਉਂਡ</string>
+    <string name="switch_bible">ਬਾਈਬਲ</string>
+    <string name="switch_clock">ਘੜੀ</string>
+    <string name="switch_images">ਯਿਸੂ</string>
+    <string name="apply_selection_button">ਚੋਣ ਲਾਗੂ ਕਰੋ</string>
+    
+</resources>

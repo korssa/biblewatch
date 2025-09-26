@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Библейские Часы</string>
+    <string name="biblewatch_header">Сейчас %1$s %2$s</string>
+    <string name="title_bible_watch">БИБЛЕЙСКИЕ ЧАСЫ</string>
+    <string name="permission_desc">Через разрешения приложение показывает часы на начальном экране и работает плавно.</string>
+
+    <!-- Главный Экран -->
+    <string name="overlay_permission_title">Разрешение Наложения</string>
+    <string name="usage_access_permission_title">Разрешение Доступа к Использованию</string>
+    <string name="request_overlay_button_label">👉 Запросить Разрешение Наложения</string>
+    <string name="overlay_granted_label">Разрешение Наложения Предоставлено</string>
+    <string name="request_usage_button_label">👉 Запросить Доступ к Использованию</string>
+    <string name="usage_granted_label">Доступ к Использованию Предоставлен</string>
+    <string name="start_overlay_button">Запустить Наложение</string>
+    <string name="stop_overlay_button">Остановить Наложение</string>
+    <string name="open_anim_settings_button">Опционально: Включить/Выключить Анимацию</string>
+    <string name="status_granted">✅ Предоставлено</string>
+    <string name="status_needed">❌ Необходимо</string>
+
+    <!-- Экран Настроек Анимации -->
+    <string name="anim_settings_title">Включить/Выключить Анимацию</string>
+    <string name="anim_settings_subtitle">Включите только то, что хотите \n— Экономьте Батарею</string>
+    <string name="switch_rays_fairy_bg">Лучи, Фея, Фон</string>
+    <string name="switch_bible">Библия</string>
+    <string name="switch_clock">Часы</string>
+    <string name="switch_images">Иисус</string>
+    <string name="apply_selection_button">Применить Выбор</string>
+    
+</resources>

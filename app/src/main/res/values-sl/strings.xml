@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bibiljska Ura</string>
+    <string name="biblewatch_header">Zdaj je %1$s %2$s</string>
+    <string name="title_bible_watch">BIBILJSKA URA</string>
+    <string name="permission_desc">Preko dovoljenj aplikacija prikazuje uro na začetnem zaslonu in deluje gladko.</string>
+
+    <!-- Glavni Zasloni -->
+    <string name="overlay_permission_title">Dovoljenje Prekrivanja</string>
+    <string name="usage_access_permission_title">Dovoljenje Dostopa do Uporabe</string>
+    <string name="request_overlay_button_label">👉 Zahtevaj Dovoljenje Prekrivanja</string>
+    <string name="overlay_granted_label">Dovoljenje Prekrivanja Podeljeno</string>
+    <string name="request_usage_button_label">👉 Zahtevaj Dostop do Uporabe</string>
+    <string name="usage_granted_label">Dostop do Uporabe Podeljen</string>
+    <string name="start_overlay_button">Začni Prekrivanje</string>
+    <string name="stop_overlay_button">Ustavi Prekrivanje</string>
+    <string name="open_anim_settings_button">Izbirno: Vklopi/Izklopi Animacijo</string>
+    <string name="status_granted">✅ Podeljeno</string>
+    <string name="status_needed">❌ Potrebno</string>
+
+    <!-- Zasloni Nastavitev Animacije -->
+    <string name="anim_settings_title">Vklopi/Izklopi Animacijo</string>
+    <string name="anim_settings_subtitle">Vklopi samo tisto, kar želiš \n— Prihrani Baterijo</string>
+    <string name="switch_rays_fairy_bg">Žarki, Vilenjak, Ozadje</string>
+    <string name="switch_bible">Biblija</string>
+    <string name="switch_clock">Ura</string>
+    <string name="switch_images">Jezus</string>
+    <string name="apply_selection_button">Uporabi Izbira</string>
+    
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">බයිබල් වොච්</string>
+    <string name="biblewatch_header">දැන් %1$s %2$s වේ</string>
+    <string name="title_bible_watch">බයිබල් වොච්</string>
+    <string name="permission_desc">අවසරයන් මගින් යෙදුම පූර්ණයෙන්ම ප්‍රථම තිරයේ ඔරලෝසුව පෙන්වීම සහ සුක්කානමයින් ක්‍රියා කිරීම.</string>
+
+    <!-- ප්‍රධාන තිරය -->
+    <string name="overlay_permission_title">ඕවර්ලේ අවසරය</string>
+    <string name="usage_access_permission_title">භාවිතා ප්‍රවේශ අවසරය</string>
+    <string name="request_overlay_button_label">👉 ඕවර්ලේ අවසරය ඉල්ලන්න</string>
+    <string name="overlay_granted_label">ඕවර්ලේ අවසරය ලබා දී ඇත</string>
+    <string name="request_usage_button_label">👉 භාවිතා ප්‍රවේශය ඉල්ලන්න</string>
+    <string name="usage_granted_label">භාවිතා ප්‍රවේශය ලබා දී ඇත</string>
+    <string name="start_overlay_button">ඕවර්ලේ ආරම්භ කරන්න</string>
+    <string name="stop_overlay_button">ඕවර්ලේ නවත්වන්න</string>
+    <string name="open_anim_settings_button">විකල්පයෙන්: ඇනිමේෂන් ආරම්භ/නවත්වන්න</string>
+    <string name="status_granted">✅ ලබා දී ඇත</string>
+    <string name="status_needed">❌ අවශ්‍යයි</string>
+
+    <!-- ඇනිමේෂන් සැකසුම් තිරය -->
+    <string name="anim_settings_title">ඇනිමේෂන් ආරම්භ/නවත්වන්න</string>
+    <string name="anim_settings_subtitle">ඔබට අවශ්‍යයි එකම ආරම්භ කරන්න \n— බැටරිය සුරක්ෂිත කරන්න</string>
+    <string name="switch_rays_fairy_bg">කිරණ, පෙරි, පසුබිම</string>
+    <string name="switch_bible">බයිබල්</string>
+    <string name="switch_clock">ඔරලෝසුව</string>
+    <string name="switch_images">ජේසුස්</string>
+    <string name="apply_selection_button">තේරීම යෙදීම</string>
+    
+</resources>

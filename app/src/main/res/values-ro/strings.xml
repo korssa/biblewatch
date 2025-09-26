@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ceas Biblic</string>
+    <string name="biblewatch_header">Acum este %1$s %2$s</string>
+    <string name="title_bible_watch">CEAS BIBLIC</string>
+    <string name="permission_desc">Prin permisiuni, aplicația afișează ceasul pe ecranul de pornire și funcționează fără probleme.</string>
+
+    <!-- Ecran Principal -->
+    <string name="overlay_permission_title">Permisiune Suprapunere</string>
+    <string name="usage_access_permission_title">Permisiune Acces Utilizare</string>
+    <string name="request_overlay_button_label">👉 Solicită Permisiune Suprapunere</string>
+    <string name="overlay_granted_label">Permisiune Suprapunere Acordată</string>
+    <string name="request_usage_button_label">👉 Solicită Acces Utilizare</string>
+    <string name="usage_granted_label">Acces Utilizare Acordat</string>
+    <string name="start_overlay_button">Începe Suprapunere</string>
+    <string name="stop_overlay_button">Oprește Suprapunere</string>
+    <string name="open_anim_settings_button">Opțional: Porniți/Opriți Animație</string>
+    <string name="status_granted">✅ Acordat</string>
+    <string name="status_needed">❌ Necesară</string>
+
+    <!-- Ecran Setări Animație -->
+    <string name="anim_settings_title">Porniți/Opriți Animație</string>
+    <string name="anim_settings_subtitle">Porniți doar ce doriți \n— Economisiți Baterie</string>
+    <string name="switch_rays_fairy_bg">Raze, Zână, Fundal</string>
+    <string name="switch_bible">Biblie</string>
+    <string name="switch_clock">Ceas</string>
+    <string name="switch_images">Isus</string>
+    <string name="apply_selection_button">Aplică Selecție</string>
+    
+</resources>
