@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">นาฬิกาไบเบิล</string>
+    <string name="biblewatch_header">ตอนนี้เป็น %1$s %2$s</string>
+    <string name="title_bible_watch">นาฬิกาไบเบิล</string>
+    <string name="permission_desc">ผ่านการอนุญาต แอปจะแสดงนาฬิกาบนหน้าจอเริ่มต้นและทำงานได้อย่างราบรื่น</string>
+
+    <!-- หน้าจอหลัก -->
+    <string name="overlay_permission_title">สิทธิ์การโอเวอร์เลย์</string>
+    <string name="usage_access_permission_title">สิทธิ์การเข้าถึงการใช้งาน</string>
+    <string name="request_overlay_button_label">👉 ขอสิทธิ์การโอเวอร์เลย์</string>
+    <string name="overlay_granted_label">สิทธิ์การโอเวอร์เลย์ได้รับอนุญาต</string>
+    <string name="request_usage_button_label">👉 ขอการเข้าถึงการใช้งาน</string>
+    <string name="usage_granted_label">การเข้าถึงการใช้งานได้รับอนุญาต</string>
+    <string name="start_overlay_button">เริ่มโอเวอร์เลย์</string>
+    <string name="stop_overlay_button">หยุดโอเวอร์เลย์</string>
+    <string name="open_anim_settings_button">ตัวเลือก: เปิด/ปิดแอนิเมชัน</string>
+    <string name="status_granted">✅ ได้รับอนุญาต</string>
+    <string name="status_needed">❌ จำเป็น</string>
+
+    <!-- หน้าจอการตั้งค่าแอนิเมชัน -->
+    <string name="anim_settings_title">เปิด/ปิดแอนิเมชัน</string>
+    <string name="anim_settings_subtitle">เปิดเฉพาะสิ่งที่คุณต้องการ \n— ประหยัดแบตเตอรี่</string>
+    <string name="switch_rays_fairy_bg">รังสี, เทพธิดา, พื้นหลัง</string>
+    <string name="switch_bible">ไบเบิล</string>
+    <string name="switch_clock">นาฬิกา</string>
+    <string name="switch_images">พระเยซู</string>
+    <string name="apply_selection_button">ใช้การเลือก</string>
+    
+</resources>

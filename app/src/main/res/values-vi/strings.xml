@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Đồng Hồ Kinh Thánh</string>
+    <string name="biblewatch_header">Bây giờ là %1$s %2$s</string>
+    <string name="title_bible_watch">ĐỒNG HỒ KINH THÁNH</string>
+    <string name="permission_desc">Thông qua quyền, ứng dụng hiển thị đồng hồ trên màn hình khởi động và hoạt động mượt mà.</string>
+
+    <!-- Màn Hình Chính -->
+    <string name="overlay_permission_title">Quyền Lớp Phủ</string>
+    <string name="usage_access_permission_title">Quyền Truy Cập Sử Dụng</string>
+    <string name="request_overlay_button_label">👉 Yêu Cầu Quyền Lớp Phủ</string>
+    <string name="overlay_granted_label">Quyền Lớp Phủ Đã Được Cấp</string>
+    <string name="request_usage_button_label">👉 Yêu Cầu Truy Cập Sử Dụng</string>
+    <string name="usage_granted_label">Truy Cập Sử Dụng Đã Được Cấp</string>
+    <string name="start_overlay_button">Bắt Đầu Lớp Phủ</string>
+    <string name="stop_overlay_button">Dừng Lớp Phủ</string>
+    <string name="open_anim_settings_button">Tùy Chọn: Bật/Tắt Hoạt Hình</string>
+    <string name="status_granted">✅ Đã Được Cấp</string>
+    <string name="status_needed">❌ Cần Thiết</string>
+
+    <!-- Màn Hình Cài Đặt Hoạt Hình -->
+    <string name="anim_settings_title">Bật/Tắt Hoạt Hình</string>
+    <string name="anim_settings_subtitle">Chỉ bật những gì bạn muốn \n— Tiết Kiệm Pin</string>
+    <string name="switch_rays_fairy_bg">Tia Sáng, Tiên, Nền</string>
+    <string name="switch_bible">Kinh Thánh</string>
+    <string name="switch_clock">Đồng Hồ</string>
+    <string name="switch_images">Chúa Giê-su</string>
+    <string name="apply_selection_button">Áp Dụng Lựa Chọn</string>
+    
+</resources>

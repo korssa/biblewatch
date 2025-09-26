@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">بائبل واچ</string>
+    <string name="biblewatch_header">اب %1$s %2$s ہے</string>
+    <string name="title_bible_watch">بائبل واچ</string>
+    <string name="permission_desc">اجازتوں کے ذریعے ایپ اسٹارٹ اسکرین پر گھڑی دکھاتی ہے اور بغیر کسی رکاوٹ کے کام کرتی ہے۔</string>
+
+    <!-- مین اسکرین -->
+    <string name="overlay_permission_title">اوورلے اجازت</string>
+    <string name="usage_access_permission_title">استعمال رسائی اجازت</string>
+    <string name="request_overlay_button_label">👉 اوورلے اجازت کی درخواست کریں</string>
+    <string name="overlay_granted_label">اوورلے اجازت دی گئی</string>
+    <string name="request_usage_button_label">👉 استعمال رسائی کی درخواست کریں</string>
+    <string name="usage_granted_label">استعمال رسائی دی گئی</string>
+    <string name="start_overlay_button">اوورلے شروع کریں</string>
+    <string name="stop_overlay_button">اوورلے روکیں</string>
+    <string name="open_anim_settings_button">اختیاری: اینیمیشن آن/آف کریں</string>
+    <string name="status_granted">✅ دی گئی</string>
+    <string name="status_needed">❌ ضروری</string>
+
+    <!-- اینیمیشن سیٹنگز اسکرین -->
+    <string name="anim_settings_title">اینیمیشن آن/آف کریں</string>
+    <string name="anim_settings_subtitle">صرف وہ چیز آن کریں جو آپ چاہتے ہیں \n— بیٹری بچائیں</string>
+    <string name="switch_rays_fairy_bg">کرنیں، پری، پس منظر</string>
+    <string name="switch_bible">بائبل</string>
+    <string name="switch_clock">گھڑی</string>
+    <string name="switch_images">عیسیٰ</string>
+    <string name="apply_selection_button">انتخاب لاگو کریں</string>
+    
+</resources>

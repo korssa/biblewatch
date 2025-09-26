@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">圣经时钟</string>
+    <string name="biblewatch_header">现在是 %1$s %2$s</string>
+    <string name="title_bible_watch">圣经时钟</string>
+    <string name="permission_desc">通过权限，应用在启动屏幕上显示时钟并顺畅运行。</string>
+
+    <!-- 主屏幕 -->
+    <string name="overlay_permission_title">叠加权限</string>
+    <string name="usage_access_permission_title">使用访问权限</string>
+    <string name="request_overlay_button_label">👉 请求叠加权限</string>
+    <string name="overlay_granted_label">叠加权限已授予</string>
+    <string name="request_usage_button_label">👉 请求使用访问</string>
+    <string name="usage_granted_label">使用访问已授予</string>
+    <string name="start_overlay_button">开始叠加</string>
+    <string name="stop_overlay_button">停止叠加</string>
+    <string name="open_anim_settings_button">可选：开启/关闭动画</string>
+    <string name="status_granted">✅ 已授予</string>
+    <string name="status_needed">❌ 需要</string>
+
+    <!-- 动画设置屏幕 -->
+    <string name="anim_settings_title">开启/关闭动画</string>
+    <string name="anim_settings_subtitle">只开启你想要的 \n— 节省电池</string>
+    <string name="switch_rays_fairy_bg">光线，仙女，背景</string>
+    <string name="switch_bible">圣经</string>
+    <string name="switch_clock">时钟</string>
+    <string name="switch_images">耶稣</string>
+    <string name="apply_selection_button">应用选择</string>
+    
+</resources>

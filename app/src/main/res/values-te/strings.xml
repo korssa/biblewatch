@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">బైబిల్ గడియారం</string>
+    <string name="biblewatch_header">ఇప్పుడు %1$s %2$s</string>
+    <string name="title_bible_watch">బైబిల్ గడియారం</string>
+    <string name="permission_desc">అనుమతుల ద్వారా యాప్ ప్రారంభ స్క్రీన్‌లో గడియారాన్ని చూపిస్తుంది మరియు సుగమంగా పనిచేస్తుంది.</string>
+
+    <!-- ప్రధాన స్క్రీన్ -->
+    <string name="overlay_permission_title">ఓవర్‌లే అనుమతి</string>
+    <string name="usage_access_permission_title">వినియోగ ప్రాప్తి అనుమతి</string>
+    <string name="request_overlay_button_label">👉 ఓవర్‌లే అనుమతి అభ్యర్థించు</string>
+    <string name="overlay_granted_label">ఓవర్‌లే అనుమతి మంజూరు చేయబడింది</string>
+    <string name="request_usage_button_label">👉 వినియోగ ప్రాప్తి అభ్యర్థించు</string>
+    <string name="usage_granted_label">వినియోగ ప్రాప్తి మంజూరు చేయబడింది</string>
+    <string name="start_overlay_button">ఓవర్‌లే ప్రారంభించు</string>
+    <string name="stop_overlay_button">ఓవర్‌లే ఆపు</string>
+    <string name="open_anim_settings_button">ఐచ్ఛికం: యానిమేషన్ ఆన్/ఆఫ్</string>
+    <string name="status_granted">✅ మంజూరు చేయబడింది</string>
+    <string name="status_needed">❌ అవసరం</string>
+
+    <!-- యానిమేషన్ సెట్టింగుల స్క్రీన్ -->
+    <string name="anim_settings_title">యానిమేషన్ ఆన్/ఆఫ్</string>
+    <string name="anim_settings_subtitle">మీకు కావలసినవి మాత్రమే ఆన్ చేయండి \n— బ్యాటరీ సేవ్ చేయండి</string>
+    <string name="switch_rays_fairy_bg">కిరణాలు, యూనికార్న్, నేపథ్యం</string>
+    <string name="switch_bible">బైబిల్</string>
+    <string name="switch_clock">గడియారం</string>
+    <string name="switch_images">జీసస్</string>
+    <string name="apply_selection_button">ఎంపిక వర్తించు</string>
+    
+</resources>

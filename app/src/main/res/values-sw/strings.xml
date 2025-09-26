@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Saa ya Biblia</string>
+    <string name="biblewatch_header">Sasa ni %1$s %2$s</string>
+    <string name="title_bible_watch">SAA YA BIBLIA</string>
+    <string name="permission_desc">Kupitia ruhusa, programu inaonyesha saa kwenye skrini ya kuanza na inafanya kazi vizuri.</string>
+
+    <!-- Skrini Kuu -->
+    <string name="overlay_permission_title">Ruhusa ya Kufunika</string>
+    <string name="usage_access_permission_title">Ruhusa ya Ufikiaji wa Matumizi</string>
+    <string name="request_overlay_button_label">👉 Omba Ruhusa ya Kufunika</string>
+    <string name="overlay_granted_label">Ruhusa ya Kufunika Imetolewa</string>
+    <string name="request_usage_button_label">👉 Omba Ufikiaji wa Matumizi</string>
+    <string name="usage_granted_label">Ufikiaji wa Matumizi Umetolewa</string>
+    <string name="start_overlay_button">Anza Kufunika</string>
+    <string name="stop_overlay_button">Acha Kufunika</string>
+    <string name="open_anim_settings_button">Hiari: Washa/Zima Uhuishaji</string>
+    <string name="status_granted">✅ Imetolewa</string>
+    <string name="status_needed">❌ Inahitajika</string>
+
+    <!-- Skrini ya Mipangilio ya Uhuishaji -->
+    <string name="anim_settings_title">Washa/Zima Uhuishaji</string>
+    <string name="anim_settings_subtitle">Washa tu unachotaka \n— Hifadhi Betri</string>
+    <string name="switch_rays_fairy_bg">Mishale, Kijiko, Mandharinyuma</string>
+    <string name="switch_bible">Biblia</string>
+    <string name="switch_clock">Saa</string>
+    <string name="switch_images">Yesu</string>
+    <string name="apply_selection_button">Tumia Uteuzi</string>
+    
+</resources>

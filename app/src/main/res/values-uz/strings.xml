@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bibliya Soati</string>
+    <string name="biblewatch_header">Hozir %1$s %2$s</string>
+    <string name="title_bible_watch">BIBLIYA SOATI</string>
+    <string name="permission_desc">Ruxsatlar orqali ilova boshlang'ich ekranda soatni ko'rsatadi va muammosiz ishlaydi.</string>
+
+    <!-- Asosiy Ekran -->
+    <string name="overlay_permission_title">Qoplama Ruxsati</string>
+    <string name="usage_access_permission_title">Foydalanish Kirish Ruxsati</string>
+    <string name="request_overlay_button_label">👉 Qoplama Ruxsatini So'rang</string>
+    <string name="overlay_granted_label">Qoplama Ruxsati Berildi</string>
+    <string name="request_usage_button_label">👉 Foydalanish Kirishini So'rang</string>
+    <string name="usage_granted_label">Foydalanish Kirishi Berildi</string>
+    <string name="start_overlay_button">Qoplama Boshlash</string>
+    <string name="stop_overlay_button">Qoplama To'xtatish</string>
+    <string name="open_anim_settings_button">Ixtiyoriy: Animatsiyani Yoqish/O'chirish</string>
+    <string name="status_granted">✅ Berildi</string>
+    <string name="status_needed">❌ Kerakli</string>
+
+    <!-- Animatsiya Sozlamalari Ekrani -->
+    <string name="anim_settings_title">Animatsiyani Yoqish/O'chirish</string>
+    <string name="anim_settings_subtitle">Faqat xohlaganingizni yoqing \n— Batareyani Tejash</string>
+    <string name="switch_rays_fairy_bg">Nurlar, Peri, Fon</string>
+    <string name="switch_bible">Bibliya</string>
+    <string name="switch_clock">Soat</string>
+    <string name="switch_images">Iso</string>
+    <string name="apply_selection_button">Tanlovni Qo'llash</string>
+    
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Біблійний Годинник</string>
+    <string name="biblewatch_header">Зараз %1$s %2$s</string>
+    <string name="title_bible_watch">БІБЛІЙНИЙ ГОДИННИК</string>
+    <string name="permission_desc">Через дозволи додаток показує годинник на початковому екрані та працює плавно.</string>
+
+    <!-- Головний Екран -->
+    <string name="overlay_permission_title">Дозвіл Накладання</string>
+    <string name="usage_access_permission_title">Дозвіл Доступу до Використання</string>
+    <string name="request_overlay_button_label">👉 Запитати Дозвіл Накладання</string>
+    <string name="overlay_granted_label">Дозвіл Накладання Надано</string>
+    <string name="request_usage_button_label">👉 Запитати Доступ до Використання</string>
+    <string name="usage_granted_label">Доступ до Використання Надано</string>
+    <string name="start_overlay_button">Запустити Накладання</string>
+    <string name="stop_overlay_button">Зупинити Накладання</string>
+    <string name="open_anim_settings_button">Опціонально: Увімкнути/Вимкнути Анімацію</string>
+    <string name="status_granted">✅ Надано</string>
+    <string name="status_needed">❌ Необхідно</string>
+
+    <!-- Екран Налаштувань Анімації -->
+    <string name="anim_settings_title">Увімкнути/Вимкнути Анімацію</string>
+    <string name="anim_settings_subtitle">Увімкніть лише те, що хочете \n— Економте Батарею</string>
+    <string name="switch_rays_fairy_bg">Промені, Фея, Фон</string>
+    <string name="switch_bible">Біблія</string>
+    <string name="switch_clock">Годинник</string>
+    <string name="switch_images">Ісус</string>
+    <string name="apply_selection_button">Застосувати Вибір</string>
+    
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bibelsk Klocka</string>
+    <string name="biblewatch_header">Nu är det %1$s %2$s</string>
+    <string name="title_bible_watch">BIBELSK KLOCKA</string>
+    <string name="permission_desc">Genom behörigheter visar appen klockan på startskärmen och fungerar smidigt.</string>
+
+    <!-- Huvudskärm -->
+    <string name="overlay_permission_title">Överlägg Behörighet</string>
+    <string name="usage_access_permission_title">Användningsåtkomst Behörighet</string>
+    <string name="request_overlay_button_label">👉 Begär Överlägg Behörighet</string>
+    <string name="overlay_granted_label">Överlägg Behörighet Beviljad</string>
+    <string name="request_usage_button_label">👉 Begär Användningsåtkomst</string>
+    <string name="usage_granted_label">Användningsåtkomst Beviljad</string>
+    <string name="start_overlay_button">Starta Överlägg</string>
+    <string name="stop_overlay_button">Stoppa Överlägg</string>
+    <string name="open_anim_settings_button">Valfritt: Slå På/Av Animation</string>
+    <string name="status_granted">✅ Beviljad</string>
+    <string name="status_needed">❌ Behövs</string>
+
+    <!-- Animationsinställningar Skärm -->
+    <string name="anim_settings_title">Slå På/Av Animation</string>
+    <string name="anim_settings_subtitle">Slå på bara det du vill \n— Spara Batteri</string>
+    <string name="switch_rays_fairy_bg">Strålar, Fe, Bakgrund</string>
+    <string name="switch_bible">Bibeln</string>
+    <string name="switch_clock">Klocka</string>
+    <string name="switch_images">Jesus</string>
+    <string name="apply_selection_button">Tillämpa Val</string>
+    
+</resources>
